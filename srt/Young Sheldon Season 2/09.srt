@@ -1,0 +1,3008 @@
+1
+00:00:01,084 --> 00:00:03,211
+<i>In tenth grade,</i>
+
+2
+00:00:01,084 --> 00:00:03,211
+<i>high school students</i>
+
+3
+00:00:03,253 --> 00:00:05,547
+<i>are presented with picking</i>
+
+4
+00:00:03,253 --> 00:00:05,547
+<i>a class of their own choosing.</i>
+
+5
+00:00:05,589 --> 00:00:08,342
+<i>This is called an elective.</i>
+
+6
+00:00:08,383 --> 00:00:10,970
+<i>Courses on offer</i>
+
+7
+00:00:08,383 --> 00:00:10,970
+<i>included wood shop...</i>
+
+8
+00:00:11,010 --> 00:00:13,180
+<i>I'm happy with ten fingers,</i>
+
+9
+00:00:11,010 --> 00:00:13,180
+<i>thank you.</i>
+
+10
+00:00:13,221 --> 00:00:15,808
+<i>Introduction to agriculture...</i>
+
+11
+00:00:15,850 --> 00:00:17,518
+<i>I think you know</i>
+
+12
+00:00:15,850 --> 00:00:17,518
+<i>the answer to that.</i>
+
+13
+00:00:17,559 --> 00:00:19,478
+(moos)
+
+14
+00:00:17,559 --> 00:00:19,478
+<i>Wrestling...</i>
+
+15
+00:00:20,521 --> 00:00:22,439
+<i>I'd rather milk that cow.</i>
+
+16
+00:00:22,481 --> 00:00:25,734
+<i>All of which led me to the</i>
+
+17
+00:00:22,481 --> 00:00:25,734
+<i>elective I reluctantly chose...</i>
+
+18
+00:00:25,776 --> 00:00:28,696
+<i>Psychology 101,</i>
+
+19
+00:00:25,776 --> 00:00:28,696
+<i>an investigation</i>
+
+20
+00:00:28,737 --> 00:00:32,658
+<i>into why people think and feel</i>
+
+21
+00:00:28,737 --> 00:00:32,658
+<i>the way they do. Ugh.</i>
+
+22
+00:00:32,700 --> 00:00:33,993
+MR. GIVENS:
+
+23
+00:00:32,700 --> 00:00:33,993
+All right,
+
+24
+00:00:34,034 --> 00:00:35,494
+with Thanksgiving
+
+25
+00:00:34,034 --> 00:00:35,494
+weekend approaching,
+
+26
+00:00:35,536 --> 00:00:37,037
+it's the perfect
+
+27
+00:00:35,536 --> 00:00:37,037
+opportunity to observe
+
+28
+00:00:37,078 --> 00:00:40,833
+family dynamics and how
+
+29
+00:00:37,078 --> 00:00:40,833
+our parents, relatives
+
+30
+00:00:40,875 --> 00:00:42,001
+and siblings affect us.
+
+31
+00:00:42,041 --> 00:00:43,335
+Now, the...
+
+32
+00:00:43,377 --> 00:00:45,044
+Yes, Sheldon.
+
+33
+00:00:45,086 --> 00:00:46,714
+I don't find that interesting.
+
+34
+00:00:46,755 --> 00:00:48,549
+Well, tough knuckles,
+
+35
+00:00:46,755 --> 00:00:48,549
+that's the assignment.
+
+36
+00:00:48,590 --> 00:00:51,719
+Now, you'll all be expected
+
+37
+00:00:48,590 --> 00:00:51,719
+to collect data on your family,
+
+38
+00:00:51,760 --> 00:00:54,221
+form a hypothesis,
+
+39
+00:00:51,760 --> 00:00:54,221
+and make a prediction.
+
+40
+00:00:54,262 --> 00:00:57,057
+So you're giving us
+
+41
+00:00:54,262 --> 00:00:57,057
+homework for Thanksgiving?
+
+42
+00:00:57,098 --> 00:00:59,142
+Yes.
+
+43
+00:00:59,184 --> 00:01:01,269
+Oh, boy!
+
+44
+00:01:02,479 --> 00:01:05,190
+♪ Nobody else
+
+45
+00:01:02,479 --> 00:01:05,190
+is stronger than I am ♪
+
+46
+00:01:05,232 --> 00:01:07,985
+♪ Yesterday I moved a mountain ♪
+
+47
+00:01:08,027 --> 00:01:10,612
+♪ I bet I could be your hero ♪
+
+48
+00:01:10,654 --> 00:01:12,740
+♪ I am a mighty little man ♪
+
+49
+00:01:12,781 --> 00:01:17,285
+♪<i> I am a mighty little man.</i> ♪
+
+50
+00:01:22,123 --> 00:01:24,710
+Hey, listen, something
+
+51
+00:01:22,123 --> 00:01:24,710
+came up today
+
+52
+00:01:24,752 --> 00:01:27,004
+that we need
+
+53
+00:01:24,752 --> 00:01:27,004
+to talk about.
+
+54
+00:01:24,752 --> 00:01:27,004
+What's that?
+
+55
+00:01:27,046 --> 00:01:29,924
+I maybe have a shot
+
+56
+00:01:27,046 --> 00:01:29,924
+at a better job.
+
+57
+00:01:29,965 --> 00:01:33,761
+Oh, George, they're finally
+
+58
+00:01:29,965 --> 00:01:33,761
+gonna make you head coach?
+
+59
+00:01:33,802 --> 00:01:35,094
+Better than that.
+
+60
+00:01:35,136 --> 00:01:37,556
+Special Teams Coach,
+
+61
+00:01:35,136 --> 00:01:37,556
+University of Tulsa.
+
+62
+00:01:37,598 --> 00:01:39,474
+In Oklahoma?
+
+63
+00:01:39,516 --> 00:01:42,061
+That is where they're keeping
+
+64
+00:01:39,516 --> 00:01:42,061
+Tulsa these days.
+
+65
+00:01:42,101 --> 00:01:43,478
+No need to be lippy.
+
+66
+00:01:43,520 --> 00:01:46,023
+You're not seriously
+
+67
+00:01:43,520 --> 00:01:46,023
+thinking about moving
+
+68
+00:01:46,065 --> 00:01:48,525
+this whole family
+
+69
+00:01:46,065 --> 00:01:48,525
+to Oklahoma, are you?
+
+70
+00:01:48,567 --> 00:01:50,611
+GEORGE SR.: It's 400 miles away,
+
+71
+00:01:48,567 --> 00:01:50,611
+I wasn't gonna commute.
+
+72
+00:01:50,652 --> 00:01:52,279
+MARY:
+
+73
+00:01:50,652 --> 00:01:52,279
+Well, that's not gonna work.
+
+74
+00:01:52,320 --> 00:01:55,532
+The kids are all settled in
+
+75
+00:01:52,320 --> 00:01:55,532
+with school and friends,
+
+76
+00:01:55,574 --> 00:01:57,492
+and I've got my job
+
+77
+00:01:55,574 --> 00:01:57,492
+at the church,
+
+78
+00:01:57,534 --> 00:01:58,869
+and then there's Mom.
+
+79
+00:01:58,911 --> 00:02:00,788
+Am I supposed to just
+
+80
+00:01:58,911 --> 00:02:00,788
+walk away from her?
+
+81
+00:02:00,829 --> 00:02:02,497
+GEORGE SR.: No, what
+
+82
+00:02:00,829 --> 00:02:02,497
+you're supposed to do
+
+83
+00:02:02,539 --> 00:02:04,583
+is support my efforts
+
+84
+00:02:02,539 --> 00:02:04,583
+to improve our life.
+
+85
+00:02:12,340 --> 00:02:14,051
+Notes for
+
+86
+00:02:12,340 --> 00:02:14,051
+psychology paper.
+
+87
+00:02:14,093 --> 00:02:15,385
+What you doing?
+
+88
+00:02:15,427 --> 00:02:18,097
+Shh. Family conflict
+
+89
+00:02:15,427 --> 00:02:18,097
+has been observed.
+
+90
+00:02:18,138 --> 00:02:22,017
+Subject M and Subject D have
+
+91
+00:02:18,138 --> 00:02:22,017
+opposing views on relocating.
+
+92
+00:02:22,059 --> 00:02:25,604
+You better not be recording
+
+93
+00:02:22,059 --> 00:02:25,604
+over my Janet Jackson tape.
+
+94
+00:02:25,646 --> 00:02:27,314
+Would you please?
+
+95
+00:02:27,355 --> 00:02:29,108
+Who's Subject M and Subject D?
+
+96
+00:02:29,149 --> 00:02:31,819
+I can't tell you that,
+
+97
+00:02:29,149 --> 00:02:31,819
+you might skew the results.
+
+98
+00:02:31,860 --> 00:02:34,738
+Okay, then tell me
+
+99
+00:02:31,860 --> 00:02:34,738
+what skew means.
+
+100
+00:02:34,780 --> 00:02:36,657
+Are you going to talk
+
+101
+00:02:34,780 --> 00:02:36,657
+the whole time?
+
+102
+00:02:36,698 --> 00:02:40,160
+It seems to be annoying you,
+
+103
+00:02:36,698 --> 00:02:40,160
+so, yeah.
+
+104
+00:02:44,414 --> 00:02:47,960
+Mary, I just can't thank you
+
+105
+00:02:44,414 --> 00:02:47,960
+enough for inviting me today.
+
+106
+00:02:48,002 --> 00:02:51,088
+You're very welcome, John.
+
+107
+00:02:48,002 --> 00:02:51,088
+Love having you here.
+
+108
+00:02:51,130 --> 00:02:54,925
+Last Thanksgiving, I just sat
+
+109
+00:02:51,130 --> 00:02:54,925
+in my apartment all by myself
+
+110
+00:02:54,967 --> 00:02:56,927
+and ate a turkey sandwich.
+
+111
+00:02:56,969 --> 00:02:58,303
+That is so sad.
+
+112
+00:02:58,345 --> 00:03:00,263
+Well, it wasn't
+
+113
+00:02:58,345 --> 00:03:00,263
+at the time,
+
+114
+00:03:00,305 --> 00:03:02,557
+but now that I have something
+
+115
+00:03:00,305 --> 00:03:02,557
+to compare it to,
+
+116
+00:03:02,599 --> 00:03:05,184
+I realize what
+
+117
+00:03:02,599 --> 00:03:05,184
+a pathetic loser I was.
+
+118
+00:03:05,226 --> 00:03:07,437
+You were never a loser.
+
+119
+00:03:07,479 --> 00:03:09,898
+Yeah, you were.
+
+120
+00:03:09,940 --> 00:03:12,067
+Hey, Georgie,
+
+121
+00:03:12,109 --> 00:03:14,277
+you have any sentimental
+
+122
+00:03:12,109 --> 00:03:14,277
+attachment to this town?
+
+123
+00:03:14,319 --> 00:03:16,697
+I don't know, why?
+
+124
+00:03:14,319 --> 00:03:16,697
+I'm just curious if,
+
+125
+00:03:16,738 --> 00:03:19,074
+you know, we ever did
+
+126
+00:03:16,738 --> 00:03:19,074
+pick up and live somewhere else,
+
+127
+00:03:19,116 --> 00:03:20,408
+how you'd feel about it.
+
+128
+00:03:21,869 --> 00:03:23,328
+Well, if it was Hawaii,
+
+129
+00:03:21,869 --> 00:03:23,328
+I'd feel pretty great.
+
+130
+00:03:23,370 --> 00:03:24,872
+That's where they make
+
+131
+00:03:23,370 --> 00:03:24,872
+<i>Magnum, P.I.</i>
+
+132
+00:03:24,913 --> 00:03:27,499
+I don't think Hawaii's
+
+133
+00:03:24,913 --> 00:03:27,499
+in the cards.
+
+134
+00:03:27,541 --> 00:03:28,834
+How about Miami?
+
+135
+00:03:28,876 --> 00:03:30,794
+Let me guess,
+
+136
+00:03:28,876 --> 00:03:30,794
+'cause of<i> Miami Vice?</i>
+
+137
+00:03:30,836 --> 00:03:32,462
+<i>Golden Girls.</i>
+
+138
+00:03:32,504 --> 00:03:34,048
+Course.
+
+139
+00:03:34,089 --> 00:03:35,465
+Car.
+
+140
+00:03:36,633 --> 00:03:38,052
+I saw this one
+
+141
+00:03:38,093 --> 00:03:40,095
+where Blanche dates
+
+142
+00:03:38,093 --> 00:03:40,095
+this little guy
+
+143
+00:03:40,137 --> 00:03:43,891
+who breaks up with her 'cause
+
+144
+00:03:40,137 --> 00:03:43,891
+she's not Jewish. So good.
+
+145
+00:03:43,932 --> 00:03:47,435
+Forget about Miami
+
+146
+00:03:43,932 --> 00:03:47,435
+and Hawaii and Blanche.
+
+147
+00:03:47,477 --> 00:03:50,189
+I mean, how do you feel about
+
+148
+00:03:47,477 --> 00:03:50,189
+not staying in Medford forever?
+
+149
+00:03:50,271 --> 00:03:52,191
+Well, I guess
+
+150
+00:03:50,271 --> 00:03:52,191
+I'd be okay with it.
+
+151
+00:03:52,232 --> 00:03:54,109
+All right.
+
+152
+00:03:54,151 --> 00:03:55,527
+Good to know.
+
+153
+00:03:55,569 --> 00:03:58,655
+Subject D is attempting
+
+154
+00:03:55,569 --> 00:03:58,655
+to influence Subject G
+
+155
+00:03:58,697 --> 00:03:59,948
+regarding relocating.
+
+156
+00:03:59,990 --> 00:04:01,158
+What about you, Sheldon?
+
+157
+00:04:01,200 --> 00:04:03,702
+What about me what?
+
+158
+00:04:03,744 --> 00:04:05,913
+Could you ever see yourself
+
+159
+00:04:03,744 --> 00:04:05,913
+leaving Medford?
+
+160
+00:04:07,330 --> 00:04:09,791
+I'm sorry, Dad,
+
+161
+00:04:07,330 --> 00:04:09,791
+but I'm unable to express
+
+162
+00:04:09,833 --> 00:04:11,459
+an opinion at this time.
+
+163
+00:04:11,501 --> 00:04:12,544
+Why not?
+
+164
+00:04:12,586 --> 00:04:14,254
+In the interest of science,
+
+165
+00:04:14,295 --> 00:04:16,297
+I have to remain
+
+166
+00:04:14,295 --> 00:04:16,297
+a neutral observer.
+
+167
+00:04:16,339 --> 00:04:19,718
+Glad I asked.
+
+168
+00:04:19,760 --> 00:04:22,387
+Hey, fellows, may I join?
+
+169
+00:04:22,429 --> 00:04:25,265
+Sure. Here you go.
+
+170
+00:04:27,017 --> 00:04:28,518
+GEORGE JR.:
+
+171
+00:04:27,017 --> 00:04:28,518
+Dang, nice catch.
+
+172
+00:04:30,604 --> 00:04:32,981
+SHELDON:
+
+173
+00:04:30,604 --> 00:04:32,981
+Car.
+
+174
+00:04:35,192 --> 00:04:37,027
+Listen, I'm gonna need
+
+175
+00:04:35,192 --> 00:04:37,027
+your help with something.
+
+176
+00:04:37,069 --> 00:04:38,862
+Is it about money?
+
+177
+00:04:37,069 --> 00:04:38,862
+No.
+
+178
+00:04:38,904 --> 00:04:41,031
+Then I'm your gal.
+
+179
+00:04:38,904 --> 00:04:41,031
+What's up?
+
+180
+00:04:41,073 --> 00:04:44,201
+George is up for a coaching job
+
+181
+00:04:41,073 --> 00:04:44,201
+at the University of Tulsa.
+
+182
+00:04:44,243 --> 00:04:46,620
+Tulsa? Ugh.
+
+183
+00:04:46,661 --> 00:04:49,706
+Last year, I lost $800
+
+184
+00:04:46,661 --> 00:04:49,706
+on that damn team.
+
+185
+00:04:49,748 --> 00:04:51,625
+I'm sorry to hear that.
+
+186
+00:04:51,666 --> 00:04:53,710
+I'm fine with most
+
+187
+00:04:51,666 --> 00:04:53,710
+of the Division I stuff,
+
+188
+00:04:53,752 --> 00:04:56,171
+but these independent teams,
+
+189
+00:04:56,213 --> 00:04:58,757
+I j-- I just can't seem
+
+190
+00:04:56,213 --> 00:04:58,757
+to get a handle on it.
+
+191
+00:04:58,799 --> 00:05:01,718
+You think if George got that job
+
+192
+00:04:58,799 --> 00:05:01,718
+he might give me an inside line?
+
+193
+00:05:01,760 --> 00:05:03,262
+Mom.
+
+194
+00:05:03,303 --> 00:05:04,721
+Well, I'd cut him in,
+
+195
+00:05:04,763 --> 00:05:06,431
+make it look like
+
+196
+00:05:04,763 --> 00:05:06,431
+a Christmas present.
+
+197
+00:05:06,473 --> 00:05:07,975
+Would you please listen to me?
+
+198
+00:05:08,016 --> 00:05:09,268
+If we move up there,
+
+199
+00:05:09,309 --> 00:05:11,019
+other than holidays,
+
+200
+00:05:11,061 --> 00:05:12,687
+you're not gonna
+
+201
+00:05:11,061 --> 00:05:12,687
+see your grandkids.
+
+202
+00:05:12,729 --> 00:05:15,482
+Oh, that's a point.
+
+203
+00:05:15,523 --> 00:05:18,652
+You make it sound like
+
+204
+00:05:15,523 --> 00:05:18,652
+a<i> Sophie's Choice</i> kind of deal.
+
+205
+00:05:18,693 --> 00:05:22,239
+During dinner,
+
+206
+00:05:18,693 --> 00:05:22,239
+maybe you could express
+
+207
+00:05:22,281 --> 00:05:25,742
+how devastating it would be
+
+208
+00:05:22,281 --> 00:05:25,742
+to be away from the kids.
+
+209
+00:05:25,784 --> 00:05:28,495
+Well, I don't think I'd use
+
+210
+00:05:25,784 --> 00:05:28,495
+the word "devastating."
+
+211
+00:05:28,536 --> 00:05:29,830
+That doesn't sound like me.
+
+212
+00:05:29,871 --> 00:05:32,666
+Okay, well,
+
+213
+00:05:29,871 --> 00:05:32,666
+use whatever word you want.
+
+214
+00:05:32,707 --> 00:05:36,711
+I might use... "heartbroken."
+
+215
+00:05:36,753 --> 00:05:38,588
+Good, use that.
+
+216
+00:05:38,630 --> 00:05:41,549
+Yeah, maybe.
+
+217
+00:05:38,630 --> 00:05:41,549
+Have you got a thesaurus?
+
+218
+00:05:46,345 --> 00:05:47,931
+Oh, dear.
+
+219
+00:05:47,973 --> 00:05:50,017
+Don't be scared, Sheldon,
+
+220
+00:05:47,973 --> 00:05:50,017
+it's just a parade.
+
+221
+00:05:50,058 --> 00:05:51,601
+I already
+
+222
+00:05:50,058 --> 00:05:51,601
+don't like dogs.
+
+223
+00:05:51,643 --> 00:05:53,937
+Gigantic and floating
+
+224
+00:05:51,643 --> 00:05:53,937
+does not help.
+
+225
+00:05:53,979 --> 00:05:56,982
+Hey, how's the parade?
+
+226
+00:05:53,979 --> 00:05:56,982
+MISSY: Great.
+
+227
+00:05:57,024 --> 00:05:58,692
+Alf is one of the hosts.
+
+228
+00:05:58,733 --> 00:06:02,821
+Alf, cool. Hey, so listen,
+
+229
+00:06:02,863 --> 00:06:05,199
+how attached are you
+
+230
+00:06:02,863 --> 00:06:05,199
+to living here in Medford?
+
+231
+00:06:05,240 --> 00:06:06,574
+I don't know
+
+232
+00:06:05,240 --> 00:06:06,574
+what that means.
+
+233
+00:06:06,616 --> 00:06:08,285
+If we moved away,
+
+234
+00:06:08,327 --> 00:06:11,205
+do you have really good friends
+
+235
+00:06:08,327 --> 00:06:11,205
+that you'd miss a lot?
+
+236
+00:06:11,246 --> 00:06:12,580
+I have really
+
+237
+00:06:11,246 --> 00:06:12,580
+good friends,
+
+238
+00:06:12,622 --> 00:06:14,373
+but I think they
+
+239
+00:06:12,622 --> 00:06:14,373
+would mostly miss me.
+
+240
+00:06:14,415 --> 00:06:16,210
+'Cause you make friends
+
+241
+00:06:14,415 --> 00:06:16,210
+wherever you go.
+
+242
+00:06:16,251 --> 00:06:18,377
+I do. People
+
+243
+00:06:16,251 --> 00:06:18,377
+are drawn to me.
+
+244
+00:06:18,419 --> 00:06:19,546
+Ugh.
+
+245
+00:06:20,463 --> 00:06:23,050
+Sorry, I'm neutral.
+
+246
+00:06:24,383 --> 00:06:25,844
+Okay, so what I'm hearing
+
+247
+00:06:24,383 --> 00:06:25,844
+is that
+
+248
+00:06:25,886 --> 00:06:27,554
+you'd be happy no matter
+
+249
+00:06:25,886 --> 00:06:27,554
+where we lived.
+
+250
+00:06:27,595 --> 00:06:29,973
+I guess. Dad, please,
+
+251
+00:06:27,595 --> 00:06:29,973
+I'm trying to watch TV.
+
+252
+00:06:30,015 --> 00:06:33,434
+Sorry. I'll leave you to it.
+
+253
+00:06:38,357 --> 00:06:40,608
+Oh dear, Big Bird.
+
+254
+00:06:48,325 --> 00:06:49,701
+You're making a sandwich?
+
+255
+00:06:49,743 --> 00:06:51,536
+I'm a creature of habit.
+
+256
+00:06:51,578 --> 00:06:52,913
+(chuckles)
+
+257
+00:06:52,954 --> 00:06:54,956
+Hey, why don't we all
+
+258
+00:06:52,954 --> 00:06:54,956
+go around the table
+
+259
+00:06:54,998 --> 00:06:56,958
+and say what we're thankful for?
+
+260
+00:06:57,000 --> 00:06:58,417
+Come on, really?
+
+261
+00:06:58,459 --> 00:06:59,711
+Yes, really.
+
+262
+00:06:59,753 --> 00:07:01,338
+I'll start.
+
+263
+00:07:01,380 --> 00:07:04,883
+I'm thankful to be surrounded
+
+264
+00:07:01,380 --> 00:07:04,883
+by my loving family.
+
+265
+00:07:04,925 --> 00:07:06,551
+What about that guy?
+
+266
+00:07:06,593 --> 00:07:08,387
+That guy--
+
+267
+00:07:06,593 --> 00:07:08,387
+Dr. Sturgis--
+
+268
+00:07:08,427 --> 00:07:10,305
+is part of our
+
+269
+00:07:08,427 --> 00:07:10,305
+extended family.
+
+270
+00:07:10,347 --> 00:07:11,973
+Mm, thank you.
+
+271
+00:07:12,015 --> 00:07:15,936
+And I'm also thankful
+
+272
+00:07:12,015 --> 00:07:15,936
+for this warm and comfy home
+
+273
+00:07:15,977 --> 00:07:18,772
+that God has blessed us with
+
+274
+00:07:15,977 --> 00:07:18,772
+and this great neighborhood
+
+275
+00:07:18,813 --> 00:07:20,732
+with my mom living
+
+276
+00:07:20,774 --> 00:07:21,858
+right across the street,
+
+277
+00:07:21,900 --> 00:07:24,903
+and of course
+
+278
+00:07:21,900 --> 00:07:24,903
+our excellent
+
+279
+00:07:24,945 --> 00:07:27,447
+school system that
+
+280
+00:07:24,945 --> 00:07:27,447
+provides our children
+
+281
+00:07:27,488 --> 00:07:29,449
+with a world-class education.
+
+282
+00:07:29,490 --> 00:07:31,492
+Missy?
+
+283
+00:07:31,534 --> 00:07:34,288
+I'm thankful that there's two
+
+284
+00:07:31,534 --> 00:07:34,288
+different<i> Ghostbuster</i> cartoons.
+
+285
+00:07:34,329 --> 00:07:35,496
+That's it?
+
+286
+00:07:35,538 --> 00:07:37,457
+Unless you know
+
+287
+00:07:35,538 --> 00:07:37,457
+about a third one.
+
+288
+00:07:37,498 --> 00:07:39,793
+Okay, my turn. (chuckles)
+
+289
+00:07:39,834 --> 00:07:43,380
+Um, I am so thankful
+
+290
+00:07:39,834 --> 00:07:43,380
+to be able to watch
+
+291
+00:07:43,422 --> 00:07:44,589
+my grandchildren grow up.
+
+292
+00:07:44,631 --> 00:07:46,507
+And I can't
+
+293
+00:07:44,631 --> 00:07:46,507
+even tell you
+
+294
+00:07:46,549 --> 00:07:48,135
+how much it
+
+295
+00:07:46,549 --> 00:07:48,135
+means to me
+
+296
+00:07:48,176 --> 00:07:50,637
+that y'all live
+
+297
+00:07:48,176 --> 00:07:50,637
+right across the street.
+
+298
+00:07:50,678 --> 00:07:52,764
+And if y'all weren't,
+
+299
+00:07:52,806 --> 00:07:55,934
+I would just be... heartbroken.
+
+300
+00:07:58,186 --> 00:08:00,439
+And not just heartbroken--
+
+301
+00:08:00,521 --> 00:08:03,608
+crestfallen and chagrined.
+
+302
+00:08:03,650 --> 00:08:05,277
+And, uh,
+
+303
+00:08:05,319 --> 00:08:06,861
+I'm also thankful
+
+304
+00:08:05,319 --> 00:08:06,861
+for my health,
+
+305
+00:08:06,903 --> 00:08:09,530
+that that mole on my hip
+
+306
+00:08:06,903 --> 00:08:09,530
+turned out to be nothing,
+
+307
+00:08:09,572 --> 00:08:11,116
+and, uh,
+
+308
+00:08:11,158 --> 00:08:13,034
+I'm very thankful for John here,
+
+309
+00:08:13,076 --> 00:08:14,535
+who has
+
+310
+00:08:14,577 --> 00:08:17,289
+brought so much happiness to me.
+
+311
+00:08:17,331 --> 00:08:18,915
+(chuckles)
+
+312
+00:08:18,957 --> 00:08:21,584
+That's it for me.
+
+313
+00:08:21,626 --> 00:08:24,421
+STURGIS:
+
+314
+00:08:21,626 --> 00:08:24,421
+Oh, my.
+
+315
+00:08:21,626 --> 00:08:24,421
+Aw, lovely, Mom.
+
+316
+00:08:24,463 --> 00:08:26,131
+Oh, my, I don't know
+
+317
+00:08:24,463 --> 00:08:26,131
+where to begin.
+
+318
+00:08:26,173 --> 00:08:30,302
+Well, first of all,
+
+319
+00:08:26,173 --> 00:08:30,302
+I'm thankful to you, Connie,
+
+320
+00:08:30,344 --> 00:08:34,847
+for how you make me laugh,
+
+321
+00:08:30,344 --> 00:08:34,847
+make me feel cared for,
+
+322
+00:08:34,889 --> 00:08:37,808
+all the ways you're
+
+323
+00:08:34,889 --> 00:08:37,808
+affectionate to me
+
+324
+00:08:37,851 --> 00:08:41,355
+that I can't discuss
+
+325
+00:08:37,851 --> 00:08:41,355
+in-in front of children
+
+326
+00:08:41,395 --> 00:08:43,606
+because that would be
+
+327
+00:08:41,395 --> 00:08:43,606
+inappropriate, right?
+
+328
+00:08:43,648 --> 00:08:44,983
+Right.
+
+329
+00:08:45,984 --> 00:08:48,195
+And I'm thankful
+
+330
+00:08:45,984 --> 00:08:48,195
+to be here
+
+331
+00:08:48,236 --> 00:08:50,864
+with your wonderful family.
+
+332
+00:08:50,905 --> 00:08:54,909
+This is something I didn't
+
+333
+00:08:50,905 --> 00:08:54,909
+experience growing up.
+
+334
+00:08:54,951 --> 00:08:59,206
+See, my father was away
+
+335
+00:08:54,951 --> 00:08:59,206
+a great deal on business
+
+336
+00:08:59,247 --> 00:09:02,000
+and it was just me and my mother
+
+337
+00:09:02,042 --> 00:09:05,504
+and she was a cold
+
+338
+00:09:02,042 --> 00:09:05,504
+and distant woman
+
+339
+00:09:05,545 --> 00:09:09,466
+who blamed the world
+
+340
+00:09:05,545 --> 00:09:09,466
+for her club foot.
+
+341
+00:09:09,508 --> 00:09:10,717
+Sweetie.
+
+342
+00:09:09,508 --> 00:09:10,717
+And I...
+
+343
+00:09:10,758 --> 00:09:12,093
+Wrap it up.
+
+344
+00:09:12,135 --> 00:09:14,054
+Sorry.
+
+345
+00:09:14,095 --> 00:09:16,348
+My gratitude
+
+346
+00:09:14,095 --> 00:09:16,348
+knows no bounds.
+
+347
+00:09:16,390 --> 00:09:18,683
+Thank you.
+
+348
+00:09:16,390 --> 00:09:18,683
+Georgie?
+
+349
+00:09:19,767 --> 00:09:21,728
+Um, I'm thankful for my job
+
+350
+00:09:21,769 --> 00:09:23,604
+at the auto shop.
+
+351
+00:09:23,646 --> 00:09:26,316
+Uh, let's see...
+
+352
+00:09:26,358 --> 00:09:28,860
+Oh, Alyssa Milano
+
+353
+00:09:26,358 --> 00:09:28,860
+from<i> Who's the Boss?</i>
+
+354
+00:09:28,902 --> 00:09:32,989
+She's really hot.
+
+355
+00:09:28,902 --> 00:09:32,989
+Mm... That's about it.
+
+356
+00:09:33,031 --> 00:09:35,534
+That's wonderful. Shelly?
+
+357
+00:09:35,575 --> 00:09:37,869
+I'm sorry, Mom, but if
+
+358
+00:09:35,575 --> 00:09:37,869
+I answer that question,
+
+359
+00:09:37,911 --> 00:09:40,080
+I'd be violating
+
+360
+00:09:37,911 --> 00:09:40,080
+my experimental protocol.
+
+361
+00:09:40,121 --> 00:09:42,999
+Okay, moving on. George?
+
+362
+00:09:43,041 --> 00:09:44,501
+Well... (clears throat)
+
+363
+00:09:44,543 --> 00:09:46,211
+I'm thankful to share
+
+364
+00:09:44,543 --> 00:09:46,211
+Thanksgiving dinner
+
+365
+00:09:46,253 --> 00:09:48,213
+with my family, of course.
+
+366
+00:09:48,255 --> 00:09:50,298
+I'm also thankful
+
+367
+00:09:48,255 --> 00:09:50,298
+for this fine country we live in
+
+368
+00:09:50,340 --> 00:09:52,592
+and all the opportunities
+
+369
+00:09:50,340 --> 00:09:52,592
+it provides us.
+
+370
+00:09:52,633 --> 00:09:54,428
+Especially when
+
+371
+00:09:52,633 --> 00:09:54,428
+those opportunities
+
+372
+00:09:54,469 --> 00:09:57,472
+come once in a lifetime
+
+373
+00:09:54,469 --> 00:09:57,472
+and require taking a small risk
+
+374
+00:09:57,514 --> 00:09:59,766
+and believing in one another.
+
+375
+00:09:59,807 --> 00:10:02,269
+We're really gonna do this now?
+
+376
+00:10:02,310 --> 00:10:05,439
+Hey, you started it with
+
+377
+00:10:02,310 --> 00:10:05,439
+all that school system crap.
+
+378
+00:10:05,480 --> 00:10:07,774
+I only did that
+
+379
+00:10:05,480 --> 00:10:07,774
+because you've been
+
+380
+00:10:07,815 --> 00:10:09,692
+trying to twist
+
+381
+00:10:07,815 --> 00:10:09,692
+the kids' heads around.
+
+382
+00:10:09,734 --> 00:10:11,570
+All right, who talked?
+
+383
+00:10:11,611 --> 00:10:13,654
+Who do you think?
+
+384
+00:10:11,611 --> 00:10:13,654
+Missy.
+
+385
+00:10:13,696 --> 00:10:15,073
+Yup.
+
+386
+00:10:15,115 --> 00:10:17,700
+Well, it doesn't matter
+
+387
+00:10:15,115 --> 00:10:17,700
+because you obviously
+
+388
+00:10:17,742 --> 00:10:20,370
+went to your mother and made her
+
+389
+00:10:17,742 --> 00:10:20,370
+your stalking horse.
+
+390
+00:10:20,412 --> 00:10:21,788
+Of course
+
+391
+00:10:20,412 --> 00:10:21,788
+she went to me.
+
+392
+00:10:21,829 --> 00:10:24,458
+Move to Oklahoma,
+
+393
+00:10:21,829 --> 00:10:24,458
+what's wrong with you?
+
+394
+00:10:24,499 --> 00:10:26,126
+Wait, we're moving
+
+395
+00:10:24,499 --> 00:10:26,126
+to Oklahoma?
+
+396
+00:10:26,167 --> 00:10:28,211
+I thought Texans
+
+397
+00:10:26,167 --> 00:10:28,211
+don't like Oklahoma.
+
+398
+00:10:28,253 --> 00:10:29,921
+You're damn right we don't.
+
+399
+00:10:29,963 --> 00:10:31,881
+What's wrong with Oklahoma?
+
+400
+00:10:29,963 --> 00:10:31,881
+I'll tell you later.
+
+401
+00:10:31,923 --> 00:10:34,259
+Okay, that's enough of this.
+
+402
+00:10:31,923 --> 00:10:34,259
+Nobody's moving anywhere.
+
+403
+00:10:34,301 --> 00:10:36,761
+Let's just have
+
+404
+00:10:34,301 --> 00:10:36,761
+a nice, quiet dinner.
+
+405
+00:10:36,803 --> 00:10:40,348
+That's it? Y-You're gonna
+
+406
+00:10:36,803 --> 00:10:40,348
+make the decision for me?
+
+407
+00:10:40,390 --> 00:10:41,808
+I'm making a decision for us.
+
+408
+00:10:41,849 --> 00:10:44,018
+All right, then.
+
+409
+00:10:44,060 --> 00:10:45,312
+Where are you going?
+
+410
+00:10:45,353 --> 00:10:46,563
+George.
+
+411
+00:10:46,605 --> 00:10:47,981
+George!
+
+412
+00:10:56,281 --> 00:10:58,283
+ADULT SHELDON:
+
+413
+00:10:56,281 --> 00:10:58,283
+<i>As we sat in silence,</i>
+
+414
+00:10:58,325 --> 00:11:00,577
+<i>I had a horrible realization.</i>
+
+415
+00:11:00,619 --> 00:11:02,412
+<i>For the first time in my life,</i>
+
+416
+00:11:02,454 --> 00:11:06,082
+<i>I didn't look forward</i>
+
+417
+00:11:02,454 --> 00:11:06,082
+<i>to doing my homework.</i>
+
+418
+00:11:06,124 --> 00:11:08,168
+(sobbing)
+
+419
+00:11:12,671 --> 00:11:16,092
+(television announcer speaking
+
+420
+00:11:12,671 --> 00:11:16,092
+indistinctly)
+
+421
+00:11:16,134 --> 00:11:17,844
+Just watch the TV.
+
+422
+00:11:17,885 --> 00:11:20,013
+(television volume increases)
+
+423
+00:11:21,680 --> 00:11:24,058
+ANNOUNCER:
+
+424
+00:11:21,680 --> 00:11:24,058
+Second down, nine...
+
+425
+00:11:24,100 --> 00:11:26,144
+(birds twittering)
+
+426
+00:11:32,859 --> 00:11:35,403
+Difficult day.
+
+427
+00:11:35,445 --> 00:11:36,737
+Yes.
+
+428
+00:11:36,779 --> 00:11:40,617
+Psychology? Is that a
+
+429
+00:11:36,779 --> 00:11:40,617
+new interest of yours?
+
+430
+00:11:40,659 --> 00:11:43,662
+It was either this
+
+431
+00:11:40,659 --> 00:11:43,662
+or milking cows.
+
+432
+00:11:40,659 --> 00:11:43,662
+Oh.
+
+433
+00:11:43,702 --> 00:11:46,789
+I once was
+
+434
+00:11:43,702 --> 00:11:46,789
+licked by a cow.
+
+435
+00:11:46,831 --> 00:11:48,375
+You made the
+
+436
+00:11:46,831 --> 00:11:48,375
+right choice.
+
+437
+00:11:48,416 --> 00:11:50,001
+I'm not so sure.
+
+438
+00:11:50,043 --> 00:11:51,419
+Why is that?
+
+439
+00:11:51,461 --> 00:11:54,755
+Well, I was supposed
+
+440
+00:11:51,461 --> 00:11:54,755
+to observe family dynamics
+
+441
+00:11:54,797 --> 00:11:57,091
+over Thanksgiving
+
+442
+00:11:54,797 --> 00:11:57,091
+for my hypothesis,
+
+443
+00:11:57,133 --> 00:11:58,301
+then make a prediction.
+
+444
+00:11:58,343 --> 00:12:01,346
+Oh. All right.
+
+445
+00:12:01,388 --> 00:12:03,806
+So, um, what
+
+446
+00:12:01,388 --> 00:12:03,806
+did you observe?
+
+447
+00:12:03,848 --> 00:12:06,893
+My mom and dad arguing
+
+448
+00:12:03,848 --> 00:12:06,893
+over moving to Oklahoma
+
+449
+00:12:06,934 --> 00:12:08,144
+for my dad's job.
+
+450
+00:12:08,186 --> 00:12:10,771
+I would concur with
+
+451
+00:12:08,186 --> 00:12:10,771
+that observation.
+
+452
+00:12:10,813 --> 00:12:14,568
+Now, can you form a
+
+453
+00:12:10,813 --> 00:12:14,568
+hypothesis based on that?
+
+454
+00:12:14,609 --> 00:12:18,572
+Well, their marriage
+
+455
+00:12:14,609 --> 00:12:18,572
+is a zero sum game.
+
+456
+00:12:18,613 --> 00:12:19,906
+What's good for my father
+
+457
+00:12:19,947 --> 00:12:21,908
+isn't good for my mother
+
+458
+00:12:19,947 --> 00:12:21,908
+and vice versa.
+
+459
+00:12:21,949 --> 00:12:23,243
+Excellent.
+
+460
+00:12:23,284 --> 00:12:24,452
+And your prediction?
+
+461
+00:12:24,494 --> 00:12:26,913
+Well, based on
+
+462
+00:12:24,494 --> 00:12:26,913
+previous arguments
+
+463
+00:12:26,954 --> 00:12:28,998
+I've observed,
+
+464
+00:12:26,954 --> 00:12:28,998
+my father will try
+
+465
+00:12:29,040 --> 00:12:30,458
+to reassert his dominance
+
+466
+00:12:30,500 --> 00:12:32,586
+by making a meaningless
+
+467
+00:12:30,500 --> 00:12:32,586
+symbolic gesture.
+
+468
+00:12:32,627 --> 00:12:35,714
+Really? That seems
+
+469
+00:12:32,627 --> 00:12:35,714
+a bit of a stretch.
+
+470
+00:12:35,754 --> 00:12:37,798
+(car horn honks)
+
+471
+00:12:37,840 --> 00:12:39,842
+("Take It On the Run" by REO
+
+472
+00:12:37,840 --> 00:12:39,842
+Speedwagon playing on car radio)
+
+473
+00:12:39,884 --> 00:12:41,760
+♪ You take it on the run, baby ♪
+
+474
+00:12:41,802 --> 00:12:45,848
+♪ If that's the way you want it,
+
+475
+00:12:41,802 --> 00:12:45,848
+baby ♪
+
+476
+00:12:45,890 --> 00:12:48,935
+♪ Then I don't want
+
+477
+00:12:45,890 --> 00:12:48,935
+you around... ♪
+
+478
+00:12:48,976 --> 00:12:52,647
+I will never
+
+479
+00:12:48,976 --> 00:12:52,647
+question you again.
+
+480
+00:12:52,689 --> 00:12:55,692
+♪ I don't believe it... ♪
+
+481
+00:12:55,734 --> 00:12:57,569
+(exhales sharply)
+
+482
+00:12:57,611 --> 00:12:59,195
+MARY:
+
+483
+00:12:57,611 --> 00:12:59,195
+<i>Are you insane?</i>
+
+484
+00:12:59,237 --> 00:13:00,947
+<i>We can't afford a Ferrari.</i>
+
+485
+00:13:00,988 --> 00:13:02,365
+GEORGE SR.:
+
+486
+00:13:00,988 --> 00:13:02,365
+<i>It's a Fiero.</i>
+
+487
+00:13:02,407 --> 00:13:03,782
+MARY:
+
+488
+00:13:02,407 --> 00:13:03,782
+<i>Ferrari, Fiero, same thing.</i>
+
+489
+00:13:03,824 --> 00:13:05,535
+GEORGE SR.:
+
+490
+00:13:03,824 --> 00:13:05,535
+<i>Not really.</i>
+
+491
+00:13:05,577 --> 00:13:07,328
+<i>Now, do you mind?</i>
+
+492
+00:13:05,577 --> 00:13:07,328
+<i>I'm trying to watch the game.</i>
+
+493
+00:13:07,370 --> 00:13:08,829
+Everybody's going to Meemaw's.
+
+494
+00:13:07,370 --> 00:13:08,829
+Come on.
+
+495
+00:13:08,871 --> 00:13:10,123
+MARY:
+
+496
+00:13:08,871 --> 00:13:10,123
+Leave that tin can...
+
+497
+00:13:10,164 --> 00:13:11,583
+It's not like we haven't
+
+498
+00:13:11,625 --> 00:13:13,167
+heard them fight before.
+
+499
+00:13:11,625 --> 00:13:13,167
+Just keep moving.
+
+500
+00:13:13,209 --> 00:13:16,212
+Are we sleeping there?
+
+501
+00:13:13,209 --> 00:13:16,212
+Do I need to bring pajamas?
+
+502
+00:13:16,254 --> 00:13:18,005
+Just sleep in
+
+503
+00:13:16,254 --> 00:13:18,005
+your underwear.
+
+504
+00:13:18,047 --> 00:13:19,424
+In my underwear?
+
+505
+00:13:19,466 --> 00:13:20,925
+I hardly think so.
+
+506
+00:13:20,967 --> 00:13:22,594
+Wait, I forgot something.
+
+507
+00:13:22,636 --> 00:13:23,970
+MARY: Just so you know, you're
+
+508
+00:13:22,636 --> 00:13:23,970
+sleeping out here tonight.
+
+509
+00:13:24,011 --> 00:13:26,347
+Perfect, then I won't
+
+510
+00:13:24,011 --> 00:13:26,347
+have to move.
+
+511
+00:13:26,389 --> 00:13:29,643
+I just want to thank you
+
+512
+00:13:26,389 --> 00:13:29,643
+for a lovely dinner.
+
+513
+00:13:30,977 --> 00:13:33,229
+("Crazy About Oklahoma"
+
+514
+00:13:30,977 --> 00:13:33,229
+by Jimmy Reed playing)
+
+515
+00:13:33,271 --> 00:13:38,526
+♪ I'm crazy about Oklahoma,
+
+516
+00:13:33,271 --> 00:13:38,526
+baby ♪
+
+517
+00:13:38,568 --> 00:13:43,030
+♪ Texas so doggone big,
+
+518
+00:13:38,568 --> 00:13:43,030
+oh yes it is... ♪
+
+519
+00:13:43,072 --> 00:13:46,075
+(engine roars)
+
+520
+00:13:46,117 --> 00:13:50,079
+♪ Honey, I'm crazy
+
+521
+00:13:46,117 --> 00:13:50,079
+about Oklahoma ♪
+
+522
+00:13:50,121 --> 00:13:52,165
+♪ You know Texas
+
+523
+00:13:50,121 --> 00:13:52,165
+so doggone big... ♪
+
+524
+00:13:52,206 --> 00:13:53,958
+(engine sputters, blows)
+
+525
+00:13:56,586 --> 00:14:00,923
+♪ Oklahoma got all the oil ♪
+
+526
+00:14:00,965 --> 00:14:02,550
+(honks horn)
+
+527
+00:14:02,592 --> 00:14:05,094
+♪ Texas got the money... ♪
+
+528
+00:14:02,592 --> 00:14:05,094
+Come on!
+
+529
+00:14:05,136 --> 00:14:07,555
+Good.
+
+530
+00:14:07,597 --> 00:14:09,265
+GEORGE SR:
+
+531
+00:14:07,597 --> 00:14:09,265
+Come on!
+
+532
+00:14:14,646 --> 00:14:17,064
+You kids excited
+
+533
+00:14:14,646 --> 00:14:17,064
+to go back to school?
+
+534
+00:14:17,106 --> 00:14:18,483
+Of course I am.
+
+535
+00:14:18,525 --> 00:14:19,942
+He doesn't speak for me.
+
+536
+00:14:21,110 --> 00:14:22,236
+What are you doing?
+
+537
+00:14:22,278 --> 00:14:23,488
+Having coffee.
+
+538
+00:14:23,530 --> 00:14:25,323
+Uh, no, not in my house.
+
+539
+00:14:25,365 --> 00:14:27,200
+Oh, come on,
+
+540
+00:14:25,365 --> 00:14:27,200
+the best part of waking up
+
+541
+00:14:27,241 --> 00:14:28,326
+is Folgers in your cup.
+
+542
+00:14:28,368 --> 00:14:29,703
+Put it down.
+
+543
+00:14:29,744 --> 00:14:32,330
+I can't drink coffee,
+
+544
+00:14:32,372 --> 00:14:34,833
+I can't chew tobacco,
+
+545
+00:14:32,372 --> 00:14:34,833
+is there anything I can do?
+
+546
+00:14:34,874 --> 00:14:36,417
+Yeah, quit talking.
+
+547
+00:14:36,459 --> 00:14:37,794
+Where's Dad?
+
+548
+00:14:37,836 --> 00:14:40,630
+He went to Oklahoma
+
+549
+00:14:37,836 --> 00:14:40,630
+for that job interview.
+
+550
+00:14:40,672 --> 00:14:42,590
+I thought you put your
+
+551
+00:14:40,672 --> 00:14:42,590
+foot down on that one.
+
+552
+00:14:42,632 --> 00:14:44,258
+Just keep eating your breakfast.
+
+553
+00:14:44,300 --> 00:14:46,469
+You really think
+
+554
+00:14:44,300 --> 00:14:46,469
+we might move there?
+
+555
+00:14:46,511 --> 00:14:48,221
+(sighs)
+
+556
+00:14:48,262 --> 00:14:51,182
+I don't know what to think.
+
+557
+00:14:54,644 --> 00:14:56,145
+TAM: Spending
+
+558
+00:14:54,644 --> 00:14:56,145
+the Thanksgiving weekend
+
+559
+00:14:56,187 --> 00:14:57,814
+working in my family's
+
+560
+00:14:56,187 --> 00:14:57,814
+convenience store,
+
+561
+00:14:57,856 --> 00:15:00,233
+I observed my father
+
+562
+00:14:57,856 --> 00:15:00,233
+and mother working
+
+563
+00:15:00,274 --> 00:15:02,943
+from 6:00 in the morning
+
+564
+00:15:00,274 --> 00:15:02,943
+till 10:00 at night.
+
+565
+00:15:02,985 --> 00:15:05,572
+My hypothesis was that
+
+566
+00:15:02,985 --> 00:15:05,572
+economic advancement
+
+567
+00:15:05,613 --> 00:15:08,616
+for immigrant families is more
+
+568
+00:15:05,613 --> 00:15:08,616
+important than celebrating
+
+569
+00:15:08,658 --> 00:15:10,827
+a holiday where people eat
+
+570
+00:15:08,658 --> 00:15:10,827
+until they pass out
+
+571
+00:15:10,869 --> 00:15:12,662
+in front of the TV.
+
+572
+00:15:12,704 --> 00:15:14,080
+All right, Tam.
+
+573
+00:15:14,121 --> 00:15:16,583
+Well, based on your
+
+574
+00:15:14,121 --> 00:15:16,583
+observations and hypothesis,
+
+575
+00:15:16,624 --> 00:15:18,459
+were you able to
+
+576
+00:15:16,624 --> 00:15:18,459
+make a prediction?
+
+577
+00:15:18,501 --> 00:15:21,671
+Yes. At some point,
+
+578
+00:15:18,501 --> 00:15:21,671
+my father would die
+
+579
+00:15:21,713 --> 00:15:23,381
+prematurely from stress.
+
+580
+00:15:23,423 --> 00:15:25,091
+And my mother
+
+581
+00:15:23,423 --> 00:15:25,091
+will come live with me,
+
+582
+00:15:25,132 --> 00:15:26,760
+where she will
+
+583
+00:15:25,132 --> 00:15:26,760
+constantly disapprove
+
+584
+00:15:26,801 --> 00:15:30,764
+of my hot, blonde,
+
+585
+00:15:26,801 --> 00:15:30,764
+American wife.
+
+586
+00:15:32,640 --> 00:15:37,061
+Okay. Uh, I think we all
+
+587
+00:15:32,640 --> 00:15:37,061
+learned something there.
+
+588
+00:15:37,103 --> 00:15:38,312
+Uh, thank you, Tam.
+
+589
+00:15:38,354 --> 00:15:40,314
+Uh, Mr. Cooper,
+
+590
+00:15:38,354 --> 00:15:40,314
+you're up.
+
+591
+00:15:43,735 --> 00:15:45,779
+(clears throat)
+
+592
+00:15:45,820 --> 00:15:48,989
+Beginning on Wednesday night,
+
+593
+00:15:45,820 --> 00:15:48,989
+I observed my parents
+
+594
+00:15:49,031 --> 00:15:52,535
+arguing over the possibility
+
+595
+00:15:49,031 --> 00:15:52,535
+of us moving to Tulsa, Oklahoma.
+
+596
+00:15:52,577 --> 00:15:54,871
+Ugh, Oklahoma.
+
+597
+00:15:54,913 --> 00:15:57,457
+The argument escalated
+
+598
+00:15:54,913 --> 00:15:57,457
+and then my father stormed out
+
+599
+00:15:57,498 --> 00:16:00,960
+and bought a Fiero.
+
+600
+00:16:01,001 --> 00:16:02,712
+(voice breaking):
+
+601
+00:16:01,001 --> 00:16:02,712
+And then I went to my Meemaw's
+
+602
+00:16:02,754 --> 00:16:04,255
+and slept in my underwear!
+
+603
+00:16:04,297 --> 00:16:06,674
+(sobbing)
+
+604
+00:16:06,716 --> 00:16:07,967
+(door opens)
+
+605
+00:16:08,008 --> 00:16:11,387
+That's it; I've wasted my life.
+
+606
+00:16:11,429 --> 00:16:13,890
+(music plays quietly on radio)
+
+607
+00:16:13,932 --> 00:16:17,310
+You want to tell
+
+608
+00:16:13,932 --> 00:16:17,310
+me what happened?
+
+609
+00:16:17,351 --> 00:16:19,228
+Instead of remaining
+
+610
+00:16:17,351 --> 00:16:19,228
+a neutral observer,
+
+611
+00:16:19,270 --> 00:16:22,189
+I got emotional in front
+
+612
+00:16:19,270 --> 00:16:22,189
+of the whole class.
+
+613
+00:16:22,231 --> 00:16:23,441
+Well, that's
+
+614
+00:16:22,231 --> 00:16:23,441
+not a big deal.
+
+615
+00:16:23,483 --> 00:16:25,652
+Yes, it is; I'm a scientist.
+
+616
+00:16:25,693 --> 00:16:28,112
+You never hear about Newton
+
+617
+00:16:25,693 --> 00:16:28,112
+crying like a baby
+
+618
+00:16:28,154 --> 00:16:30,156
+when he got brutalized
+
+619
+00:16:28,154 --> 00:16:30,156
+by an apple.
+
+620
+00:16:30,197 --> 00:16:32,325
+I think you're being
+
+621
+00:16:30,197 --> 00:16:32,325
+a little tough on yourself.
+
+622
+00:16:32,366 --> 00:16:36,120
+I wonder why this
+
+623
+00:16:32,366 --> 00:16:36,120
+is affecting me so much.
+
+624
+00:16:36,162 --> 00:16:39,749
+Well, maybe it has something
+
+625
+00:16:36,162 --> 00:16:39,749
+to do with your parents arguing.
+
+626
+00:16:39,791 --> 00:16:42,460
+Us moving? I don't think so.
+
+627
+00:16:42,502 --> 00:16:44,921
+Texas, Oklahoma...
+
+628
+00:16:42,502 --> 00:16:44,921
+what's the difference?
+
+629
+00:16:44,963 --> 00:16:47,590
+Hey, now, I think you
+
+630
+00:16:44,963 --> 00:16:47,590
+might want to crack open
+
+631
+00:16:47,632 --> 00:16:51,177
+your psychology textbook
+
+632
+00:16:47,632 --> 00:16:51,177
+'cause that there is crazy talk.
+
+633
+00:16:51,218 --> 00:16:55,014
+I did read a chapter
+
+634
+00:16:51,218 --> 00:16:55,014
+on repressing emotions.
+
+635
+00:16:55,055 --> 00:16:57,809
+I suppose I could've been
+
+636
+00:16:55,055 --> 00:16:57,809
+doing that to avoid dealing
+
+637
+00:16:57,851 --> 00:16:59,519
+with the fear of change,
+
+638
+00:16:59,560 --> 00:17:02,146
+and moving would certainly
+
+639
+00:16:59,560 --> 00:17:02,146
+be a big change.
+
+640
+00:17:02,188 --> 00:17:04,816
+That's very astute.
+
+641
+00:17:02,188 --> 00:17:04,816
+I'd have a new room,
+
+642
+00:17:04,858 --> 00:17:06,818
+in a new house,
+
+643
+00:17:06,859 --> 00:17:09,444
+and the new house would probably
+
+644
+00:17:06,859 --> 00:17:09,444
+have a different smell,
+
+645
+00:17:09,487 --> 00:17:11,238
+and I probably
+
+646
+00:17:09,487 --> 00:17:11,238
+wouldn't like that smell
+
+647
+00:17:11,280 --> 00:17:12,991
+because I don't like new smells,
+
+648
+00:17:13,031 --> 00:17:16,076
+and I'd be going to a new school
+
+649
+00:17:13,031 --> 00:17:16,076
+with new kids and new teachers,
+
+650
+00:17:16,117 --> 00:17:17,912
+and I bet they'd all
+
+651
+00:17:16,117 --> 00:17:17,912
+smell different, as well.
+
+652
+00:17:17,954 --> 00:17:19,204
+Okay, now calm down.
+
+653
+00:17:19,246 --> 00:17:20,915
+That's easy for you to say.
+
+654
+00:17:20,957 --> 00:17:23,291
+Your olfactory senses
+
+655
+00:17:20,957 --> 00:17:23,291
+aren't about to be assaulted
+
+656
+00:17:23,334 --> 00:17:24,669
+by the state of Oklahoma.
+
+657
+00:17:24,711 --> 00:17:26,796
+Okay, let's try
+
+658
+00:17:24,711 --> 00:17:26,796
+a different approach.
+
+659
+00:17:26,838 --> 00:17:29,298
+Can I take you
+
+660
+00:17:26,838 --> 00:17:29,298
+to get some ice cream?
+
+661
+00:17:29,340 --> 00:17:32,218
+I'm having an emotional
+
+662
+00:17:29,340 --> 00:17:32,218
+crisis, Meemaw!
+
+663
+00:17:32,259 --> 00:17:34,261
+You can't fix that
+
+664
+00:17:32,259 --> 00:17:34,261
+with ice cream.
+
+665
+00:17:34,303 --> 00:17:37,015
+Right. Sorry.
+
+666
+00:17:39,559 --> 00:17:41,435
+You want to go
+
+667
+00:17:39,559 --> 00:17:41,435
+to Radio Shack?
+
+668
+00:17:41,477 --> 00:17:44,063
+Yes, I want to go
+
+669
+00:17:41,477 --> 00:17:44,063
+to Radio Shack!
+
+670
+00:17:48,192 --> 00:17:51,404
+Well, sir, that's the tour.
+
+671
+00:17:51,445 --> 00:17:54,574
+What do you think,
+
+672
+00:17:51,445 --> 00:17:54,574
+nicer than East Texas?
+
+673
+00:17:54,615 --> 00:17:56,200
+(chuckles) Very impressive.
+
+674
+00:17:56,242 --> 00:17:58,036
+Not sure how
+
+675
+00:17:56,242 --> 00:17:58,036
+you did it,
+
+676
+00:17:58,077 --> 00:18:00,454
+but that is the least disgusting
+
+677
+00:17:58,077 --> 00:18:00,454
+locker room I've ever been in.
+
+678
+00:18:00,496 --> 00:18:01,706
+Yes, sir.
+
+679
+00:18:01,748 --> 00:18:03,499
+Every bit of it's
+
+680
+00:18:01,748 --> 00:18:03,499
+brand, spanking new.
+
+681
+00:18:03,541 --> 00:18:06,085
+I bet if you had to, you could
+
+682
+00:18:03,541 --> 00:18:06,085
+even eat lunch in there.
+
+683
+00:18:06,126 --> 00:18:09,047
+(laughs) So what
+
+684
+00:18:06,126 --> 00:18:09,047
+do you say, George?
+
+685
+00:18:09,088 --> 00:18:11,298
+I could sure use a man
+
+686
+00:18:09,088 --> 00:18:11,298
+with your track record
+
+687
+00:18:11,340 --> 00:18:13,885
+to coach special teams. Please.
+
+688
+00:18:13,927 --> 00:18:18,014
+Thank you. I got to say,
+
+689
+00:18:13,927 --> 00:18:18,014
+I'm real tempted.
+
+690
+00:18:18,056 --> 00:18:19,891
+How does the family feel
+
+691
+00:18:18,056 --> 00:18:19,891
+about relocating?
+
+692
+00:18:19,933 --> 00:18:24,144
+Oh, they're all pretty excited
+
+693
+00:18:19,933 --> 00:18:24,144
+about the opportunity.
+
+694
+00:18:24,186 --> 00:18:26,814
+The kids see it as an adventure.
+
+695
+00:18:26,856 --> 00:18:31,235
+So why am I feeling like
+
+696
+00:18:26,856 --> 00:18:31,235
+you got some hesitation?
+
+697
+00:18:31,277 --> 00:18:32,486
+If it's about the money,
+
+698
+00:18:32,528 --> 00:18:34,447
+I believe I can get you
+
+699
+00:18:32,528 --> 00:18:34,447
+some more money.
+
+700
+00:18:34,488 --> 00:18:36,991
+No, no, no, the money's good.
+
+701
+00:18:37,033 --> 00:18:39,118
+Well, that's it, then.
+
+702
+00:18:37,033 --> 00:18:39,118
+You're gonna fit in perfectly
+
+703
+00:18:39,159 --> 00:18:40,620
+with our program here.
+
+704
+00:18:40,661 --> 00:18:42,705
+We got a lovely little house
+
+705
+00:18:40,661 --> 00:18:42,705
+for you and your family,
+
+706
+00:18:42,747 --> 00:18:43,915
+and best of all,
+
+707
+00:18:43,957 --> 00:18:46,166
+you're gonna be out of Texas.
+
+708
+00:18:43,957 --> 00:18:46,166
+(laughs)
+
+709
+00:18:46,208 --> 00:18:48,586
+I thought you started out
+
+710
+00:18:46,208 --> 00:18:48,586
+in Houston?
+
+711
+00:18:48,628 --> 00:18:52,214
+Shh. I'm trying
+
+712
+00:18:48,628 --> 00:18:52,214
+to fit in around here.
+
+713
+00:18:52,256 --> 00:18:55,259
+(both laugh)
+
+714
+00:18:55,301 --> 00:18:57,386
+So we have a deal?
+
+715
+00:18:57,428 --> 00:19:00,890
+(sighs)
+
+716
+00:19:22,912 --> 00:19:24,538
+What happened?
+
+717
+00:19:27,125 --> 00:19:29,085
+Can I take my coat off?
+
+718
+00:19:29,127 --> 00:19:30,544
+No. What happened?
+
+719
+00:19:30,586 --> 00:19:33,380
+(sighs) I turned it down.
+
+720
+00:19:33,422 --> 00:19:34,590
+Why?
+
+721
+00:19:34,632 --> 00:19:36,676
+'Cause you're
+
+722
+00:19:34,632 --> 00:19:36,676
+afraid of Mom?
+
+723
+00:19:36,717 --> 00:19:39,178
+'Cause I don't want to live
+
+724
+00:19:36,717 --> 00:19:39,178
+in Oklahoma.
+
+725
+00:19:39,219 --> 00:19:40,429
+George.
+
+726
+00:19:40,471 --> 00:19:42,348
+What difference
+
+727
+00:19:40,471 --> 00:19:42,348
+does it make, Mare?
+
+728
+00:19:42,389 --> 00:19:43,641
+We're not moving.
+
+729
+00:19:46,310 --> 00:19:48,395
+ADULT SHELDON:<i> As a child,</i>
+
+730
+00:19:46,310 --> 00:19:48,395
+<i>I never understood</i>
+
+731
+00:19:48,437 --> 00:19:51,649
+<i>the sacrifices my father made</i>
+
+732
+00:19:48,437 --> 00:19:51,649
+<i>for his family's happiness,</i>
+
+733
+00:19:51,691 --> 00:19:53,818
+<i>which made me somewhat</i>
+
+734
+00:19:51,691 --> 00:19:53,818
+<i>less compassionate</i>
+
+735
+00:19:53,860 --> 00:19:55,111
+<i>than I should've been.</i>
+
+736
+00:19:55,153 --> 00:19:56,821
+SHELDON:
+
+737
+00:19:55,153 --> 00:19:56,821
+Yay! We're not moving!
+
+738
+00:19:56,863 --> 00:19:58,739
+MISSY:
+
+739
+00:19:56,863 --> 00:19:58,739
+We're staying in Texas!
+
+740
+00:19:58,781 --> 00:20:00,783
+(all cheering, laughing)
+
+741
+00:20:06,330 --> 00:20:08,374
+MEEMAW:<i> John?</i>
+
+742
+00:20:06,330 --> 00:20:08,374
+STURGIS:<i> Yes?</i>
+
+743
+00:20:08,415 --> 00:20:13,212
+Could we do it
+
+744
+00:20:08,415 --> 00:20:13,212
+just one more time?
+
+745
+00:20:13,253 --> 00:20:16,382
+Really? I don't want you
+
+746
+00:20:13,253 --> 00:20:16,382
+to get tired of it.
+
+747
+00:20:16,423 --> 00:20:21,179
+I won't. Please?
+
+748
+00:20:21,220 --> 00:20:23,639
+Well, I can't say no to you.
+
+749
+00:20:23,681 --> 00:20:26,142
+(both chuckle)
+
+750
+00:20:26,184 --> 00:20:29,062
+Fire in the hole.
+
+751
+00:20:29,896 --> 00:20:33,232
+(laughs) Unbelievable.
+
+752
+00:20:34,400 --> 00:20:37,403
+Again, again.
+

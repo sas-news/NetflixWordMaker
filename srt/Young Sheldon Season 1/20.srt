@@ -1,0 +1,2908 @@
+1
+00:00:01,293 --> 00:00:03,337
+ADULT SHELDON:
+
+2
+00:00:01,293 --> 00:00:03,337
+<i>It was a beautiful morning</i>
+
+3
+00:00:03,378 --> 00:00:05,673
+<i>in East Texas.</i>
+
+4
+00:00:07,299 --> 00:00:09,134
+<i>The kind of morning</i>
+
+5
+00:00:07,299 --> 00:00:09,134
+<i>that made you want to get up,</i>
+
+6
+00:00:09,176 --> 00:00:12,346
+<i>get dressed and test</i>
+
+7
+00:00:09,176 --> 00:00:12,346
+<i>that acceleration</i>
+
+8
+00:00:12,387 --> 00:00:16,976
+<i>due to gravity does not depend</i>
+
+9
+00:00:12,387 --> 00:00:16,976
+<i>on an object's motion.</i>
+
+10
+00:00:17,017 --> 00:00:18,727
+I love Saturdays.
+
+11
+00:00:18,769 --> 00:00:21,271
+<i>The Earth causes the same</i>
+
+12
+00:00:18,769 --> 00:00:21,271
+<i>gravitational acceleration</i>
+
+13
+00:00:21,313 --> 00:00:22,898
+<i>of everything,</i>
+
+14
+00:00:22,940 --> 00:00:26,485
+<i>even a doll</i>
+
+15
+00:00:22,940 --> 00:00:26,485
+<i>and a flying Ping-Pong ball.</i>
+
+16
+00:00:26,527 --> 00:00:28,111
+<i>It's not often a man of science</i>
+
+17
+00:00:28,153 --> 00:00:32,156
+<i>gets to say "Yippee ki-yay,"</i>
+
+18
+00:00:28,153 --> 00:00:32,156
+<i>and mean it, but...</i>
+
+19
+00:00:32,198 --> 00:00:34,159
+Yippee ki-yay.
+
+20
+00:00:34,201 --> 00:00:35,577
+(doorbell rings)
+
+21
+00:00:38,288 --> 00:00:39,581
+Morning, Herschel.
+
+22
+00:00:39,623 --> 00:00:41,750
+Hey, George.
+
+23
+00:00:39,623 --> 00:00:41,750
+Uh, you didn't see a dog
+
+24
+00:00:41,792 --> 00:00:43,251
+wandering around here, did you?
+
+25
+00:00:43,293 --> 00:00:45,420
+No. Y'all get a dog?
+
+26
+00:00:45,462 --> 00:00:47,422
+Uh, sort of. We took him in
+
+27
+00:00:45,462 --> 00:00:47,422
+after my brother-in-law
+
+28
+00:00:47,464 --> 00:00:49,884
+had to go live
+
+29
+00:00:47,464 --> 00:00:49,884
+in a gated community.
+
+30
+00:00:49,925 --> 00:00:52,845
+Oh, that sounds nice;
+
+31
+00:00:49,925 --> 00:00:52,845
+uh, they got a no pets policy?
+
+32
+00:00:52,887 --> 00:00:53,846
+He's in jail, George.
+
+33
+00:00:53,888 --> 00:00:55,014
+Right, sure.
+
+34
+00:00:55,055 --> 00:00:56,139
+ADULT SHELDON:
+
+35
+00:00:55,055 --> 00:00:56,139
+<i>In physics,</i>
+
+36
+00:00:56,181 --> 00:00:57,558
+<i>nothing feels better</i>
+
+37
+00:00:57,599 --> 00:00:59,100
+<i>than predicting an outcome.</i>
+
+38
+00:00:59,142 --> 00:01:00,769
+<i>I love predictability.</i>
+
+39
+00:01:00,811 --> 00:01:03,104
+<i>The force of gravity:</i>
+
+40
+00:01:00,811 --> 00:01:03,104
+<i>predictable.</i>
+
+41
+00:01:03,146 --> 00:01:05,440
+<i>Nuclear fusion: predictable.</i>
+
+42
+00:01:05,482 --> 00:01:07,902
+<i>My brother peeing</i>
+
+43
+00:01:05,482 --> 00:01:07,902
+<i>in the shower:</i>
+
+44
+00:01:07,943 --> 00:01:09,778
+<i>repulsive, but predictable.</i>
+
+45
+00:01:09,820 --> 00:01:11,405
+<i>What isn't predictable:</i>
+
+46
+00:01:11,446 --> 00:01:14,074
+<i>dogs.</i>
+
+47
+00:01:14,115 --> 00:01:16,076
+<i>I've always been</i>
+
+48
+00:01:14,115 --> 00:01:16,076
+<i>terrified of dogs.</i>
+
+49
+00:01:16,117 --> 00:01:20,205
+<i>To me, they're nothing</i>
+
+50
+00:01:16,117 --> 00:01:20,205
+<i>but big, furry question marks.</i>
+
+51
+00:01:20,247 --> 00:01:21,957
+<i>Question marks with teeth.</i>
+
+52
+00:01:21,999 --> 00:01:24,083
+(barks)
+
+53
+00:01:27,755 --> 00:01:32,091
+<i>In panic situations,</i>
+
+54
+00:01:27,755 --> 00:01:32,091
+<i>I'd often lose consciousness.</i>
+
+55
+00:01:32,133 --> 00:01:33,510
+(barks)
+
+56
+00:01:33,552 --> 00:01:36,055
+<i>This time,</i>
+
+57
+00:01:33,552 --> 00:01:36,055
+<i>I only lost my voice.</i>
+
+58
+00:01:36,095 --> 00:01:37,472
+(weakly):
+
+59
+00:01:36,095 --> 00:01:37,472
+Help.
+
+60
+00:01:37,514 --> 00:01:39,975
+Please help.
+
+61
+00:01:40,017 --> 00:01:43,102
+♪ Nobody else
+
+62
+00:01:40,017 --> 00:01:43,102
+is stronger than I am ♪
+
+63
+00:01:43,144 --> 00:01:45,940
+♪ Yesterday I moved a mountain ♪
+
+64
+00:01:45,981 --> 00:01:48,525
+♪ I bet I could be your hero ♪
+
+65
+00:01:48,567 --> 00:01:50,694
+♪ I am a mighty little man ♪
+
+66
+00:01:50,736 --> 00:01:55,240
+♪<i> I am a mighty little man.</i> ♪
+
+67
+00:01:57,659 --> 00:01:59,494
+SMURF (over TV):
+
+68
+00:01:57,659 --> 00:01:59,494
+Uh, I was just admiring
+
+69
+00:01:59,536 --> 00:02:02,247
+Grandpa Smurf's
+
+70
+00:01:59,536 --> 00:02:02,247
+unique walking stick.
+
+71
+00:02:02,289 --> 00:02:03,958
+Smurf-a-loo-loo.
+
+72
+00:02:03,999 --> 00:02:05,125
+That's not my walking stick.
+
+73
+00:02:05,166 --> 00:02:06,293
+Lunch is ready.
+
+74
+00:02:06,334 --> 00:02:07,628
+Can you go get your brother?
+
+75
+00:02:07,669 --> 00:02:09,169
+I'm watching TV.
+
+76
+00:02:09,211 --> 00:02:10,672
+Just go.
+
+77
+00:02:10,714 --> 00:02:14,217
+(sighs) I have to do
+
+78
+00:02:10,714 --> 00:02:14,217
+smurfing everything around here.
+
+79
+00:02:14,259 --> 00:02:15,803
+I heard that.
+
+80
+00:02:15,844 --> 00:02:17,387
+I said "smurfing."
+
+81
+00:02:17,429 --> 00:02:19,180
+And I heard how you said it.
+
+82
+00:02:19,222 --> 00:02:20,808
+(door closes)
+
+83
+00:02:20,849 --> 00:02:23,060
+She can cut her own crusts off.
+
+84
+00:02:23,102 --> 00:02:24,937
+Sheldon?
+
+85
+00:02:24,979 --> 00:02:27,272
+Who are you?
+
+86
+00:02:27,314 --> 00:02:28,816
+You're so cute.
+
+87
+00:02:28,857 --> 00:02:31,735
+SHELDON (whispering):
+
+88
+00:02:28,857 --> 00:02:31,735
+Be careful.
+
+89
+00:02:31,777 --> 00:02:33,403
+What are you doing up there?
+
+90
+00:02:33,445 --> 00:02:35,196
+Staying alive.
+
+91
+00:02:35,238 --> 00:02:36,991
+Whose dog is this?
+
+92
+00:02:37,032 --> 00:02:38,533
+I don't know. Get help.
+
+93
+00:02:38,575 --> 00:02:40,119
+Well, how did he get
+
+94
+00:02:38,575 --> 00:02:40,119
+into the garage?
+
+95
+00:02:40,160 --> 00:02:42,203
+Please get help.
+
+96
+00:02:42,245 --> 00:02:43,371
+Maybe we can keep it.
+
+97
+00:02:43,413 --> 00:02:45,457
+I'm begging you, get help now.
+
+98
+00:02:45,499 --> 00:02:48,251
+First, I have
+
+99
+00:02:45,499 --> 00:02:48,251
+to tell you something.
+
+100
+00:02:48,293 --> 00:02:49,544
+What?
+
+101
+00:02:49,586 --> 00:02:51,463
+Lunch is ready.
+
+102
+00:02:55,801 --> 00:02:57,427
+GEORGE SR. (laughing):
+
+103
+00:02:55,801 --> 00:02:57,427
+Will you look at that?
+
+104
+00:02:57,469 --> 00:02:59,054
+What kind of dog
+
+105
+00:02:57,469 --> 00:02:59,054
+chews through wood?
+
+106
+00:02:59,096 --> 00:03:00,764
+Y'all are feeding him, right?
+
+107
+00:03:00,806 --> 00:03:02,307
+Maybe he's teething.
+
+108
+00:03:02,349 --> 00:03:03,517
+You know, when Billy was little,
+
+109
+00:03:03,558 --> 00:03:04,935
+he chewed right through
+
+110
+00:03:03,558 --> 00:03:04,935
+his playpen.
+
+111
+00:03:04,977 --> 00:03:07,062
+No kidding?
+
+112
+00:03:04,977 --> 00:03:07,062
+Only had three teeth.
+
+113
+00:03:07,104 --> 00:03:09,064
+Mostly gummed it.
+
+114
+00:03:09,106 --> 00:03:11,483
+So how y'all want to fix it?
+
+115
+00:03:11,525 --> 00:03:12,776
+Well, I figure I'll patch it,
+
+116
+00:03:12,818 --> 00:03:14,528
+run some chicken wire
+
+117
+00:03:12,818 --> 00:03:14,528
+along the bottom--
+
+118
+00:03:14,569 --> 00:03:16,488
+that way, he don't
+
+119
+00:03:14,569 --> 00:03:16,488
+chew through it again.
+
+120
+00:03:16,530 --> 00:03:19,366
+Hello.
+
+121
+00:03:19,407 --> 00:03:20,826
+Hey.
+
+122
+00:03:19,407 --> 00:03:20,826
+Hey, Billy.
+
+123
+00:03:20,868 --> 00:03:23,620
+Was this fence window
+
+124
+00:03:20,868 --> 00:03:23,620
+always here?
+
+125
+00:03:23,662 --> 00:03:25,330
+(sighs)
+
+126
+00:03:25,372 --> 00:03:28,249
+No, son,
+
+127
+00:03:25,372 --> 00:03:28,249
+that's a new fence window.
+
+128
+00:03:29,208 --> 00:03:31,837
+Anybody else getting dizzy?
+
+129
+00:03:44,058 --> 00:03:46,060
+Why didn't you
+
+130
+00:03:44,058 --> 00:03:46,060
+call for help?
+
+131
+00:03:46,101 --> 00:03:48,937
+I tried,
+
+132
+00:03:46,101 --> 00:03:48,937
+but no sound came out.
+
+133
+00:03:48,979 --> 00:03:50,522
+You poor thing.
+
+134
+00:03:50,564 --> 00:03:51,982
+It was very dirty up there.
+
+135
+00:03:52,024 --> 00:03:54,526
+Is cleaning the garage
+
+136
+00:03:52,024 --> 00:03:54,526
+your job or Dad's?
+
+137
+00:03:54,568 --> 00:03:55,777
+Don't you worry about that.
+
+138
+00:03:55,819 --> 00:03:57,112
+Here, have some tea.
+
+139
+00:03:57,154 --> 00:03:58,780
+Chamomile?
+
+140
+00:03:57,154 --> 00:03:58,780
+Yes.
+
+141
+00:03:58,822 --> 00:03:59,823
+One teaspoon of honey?
+
+142
+00:03:59,865 --> 00:04:00,824
+Yes.
+
+143
+00:04:00,866 --> 00:04:02,283
+An ice cube to cool it off?
+
+144
+00:04:02,325 --> 00:04:03,618
+I went with two today.
+
+145
+00:04:03,660 --> 00:04:06,163
+You've been through enough.
+
+146
+00:04:10,167 --> 00:04:11,960
+I prefer one ice cube.
+
+147
+00:04:12,002 --> 00:04:13,461
+Drink it.
+
+148
+00:04:14,963 --> 00:04:17,673
+It's nice when the kids
+
+149
+00:04:14,963 --> 00:04:17,673
+are in bed,
+
+150
+00:04:17,716 --> 00:04:21,220
+and we can just
+
+151
+00:04:17,716 --> 00:04:21,220
+hang out and relax.
+
+152
+00:04:21,261 --> 00:04:24,098
+I'm not even gonna
+
+153
+00:04:21,261 --> 00:04:24,098
+respond to that.
+
+154
+00:04:24,139 --> 00:04:26,641
+(sighs)
+
+155
+00:04:24,139 --> 00:04:26,641
+I finally got him asleep.
+
+156
+00:04:26,683 --> 00:04:28,143
+He's still pretty shook up.
+
+157
+00:04:28,185 --> 00:04:29,477
+MEEMAW:
+
+158
+00:04:28,185 --> 00:04:29,477
+Maybe having
+
+159
+00:04:29,519 --> 00:04:31,479
+this mutt next door
+
+160
+00:04:29,519 --> 00:04:31,479
+won't be so bad.
+
+161
+00:04:31,521 --> 00:04:33,481
+Shelly could end up
+
+162
+00:04:31,521 --> 00:04:33,481
+getting used to it.
+
+163
+00:04:33,523 --> 00:04:34,733
+That's true.
+
+164
+00:04:34,775 --> 00:04:35,984
+Remember when he got
+
+165
+00:04:34,775 --> 00:04:35,984
+all freaked out
+
+166
+00:04:36,026 --> 00:04:37,694
+by the fruit
+
+167
+00:04:36,026 --> 00:04:37,694
+at the bottom of yogurt?
+
+168
+00:04:37,736 --> 00:04:39,362
+Now he eats it no problem.
+
+169
+00:04:39,404 --> 00:04:40,572
+He still makes me stir it.
+
+170
+00:04:40,614 --> 00:04:41,865
+MEEMAW: Maybe you
+
+171
+00:04:40,614 --> 00:04:41,865
+could start out
+
+172
+00:04:41,907 --> 00:04:44,034
+with a small pet,
+
+173
+00:04:41,907 --> 00:04:44,034
+and work your way up.
+
+174
+00:04:44,076 --> 00:04:45,160
+Like a turtle.
+
+175
+00:04:45,202 --> 00:04:47,037
+He says they carry salmonella.
+
+176
+00:04:47,079 --> 00:04:48,163
+A gerbil?
+
+177
+00:04:48,205 --> 00:04:49,915
+Apparently, they
+
+178
+00:04:48,205 --> 00:04:49,915
+caused the plague.
+
+179
+00:04:49,957 --> 00:04:51,332
+What about a bird?
+
+180
+00:04:51,374 --> 00:04:52,542
+Oh, I know that one.
+
+181
+00:04:52,584 --> 00:04:54,711
+They'll steal his hair
+
+182
+00:04:52,584 --> 00:04:54,711
+to make a nest.
+
+183
+00:04:56,797 --> 00:04:58,966
+♪ ♪
+
+184
+00:05:02,510 --> 00:05:04,596
+(dog panting)
+
+185
+00:05:09,476 --> 00:05:11,478
+Mom!
+
+186
+00:05:09,476 --> 00:05:11,478
+(barks)
+
+187
+00:05:11,519 --> 00:05:14,982
+ADULT SHELDON:<i> At least</i>
+
+188
+00:05:11,519 --> 00:05:14,982
+<i>this time, sound came out.</i>
+
+189
+00:05:15,023 --> 00:05:17,276
+<i>I call that progress.</i>
+
+190
+00:05:15,023 --> 00:05:17,276
+(barks)
+
+191
+00:05:22,239 --> 00:05:23,573
+(whimpers)
+
+192
+00:05:23,615 --> 00:05:25,033
+(knocking on door)
+
+193
+00:05:27,202 --> 00:05:28,369
+What's going on?
+
+194
+00:05:28,411 --> 00:05:29,997
+Your dog got
+
+195
+00:05:28,411 --> 00:05:29,997
+into our house.
+
+196
+00:05:30,038 --> 00:05:31,372
+How the hell did he do that?
+
+197
+00:05:31,414 --> 00:05:33,125
+He pushed in a screen window.
+
+198
+00:05:33,167 --> 00:05:34,584
+You think he chewed
+
+199
+00:05:33,167 --> 00:05:34,584
+through the fence again?
+
+200
+00:05:34,626 --> 00:05:35,585
+All I know
+
+201
+00:05:35,627 --> 00:05:37,087
+is Sheldon's yelling at the dog,
+
+202
+00:05:37,129 --> 00:05:38,546
+and Mary's yelling at me.
+
+203
+00:05:38,588 --> 00:05:41,008
+Now I'm looking at you
+
+204
+00:05:38,588 --> 00:05:41,008
+in your underwear.
+
+205
+00:05:41,049 --> 00:05:42,884
+BRENDA: Damn it, Herschel,
+
+206
+00:05:41,049 --> 00:05:42,884
+what is going on?
+
+207
+00:05:42,926 --> 00:05:44,343
+Oh, hey, George.
+
+208
+00:05:44,385 --> 00:05:45,386
+Hey, Brenda.
+
+209
+00:05:45,428 --> 00:05:46,345
+Bucky got in their house.
+
+210
+00:05:46,387 --> 00:05:47,973
+That's funny.
+
+211
+00:05:48,015 --> 00:05:50,934
+It might be funny one day,
+
+212
+00:05:48,015 --> 00:05:50,934
+not right now.
+
+213
+00:05:50,976 --> 00:05:52,435
+Look, I'm real sorry, George.
+
+214
+00:05:52,477 --> 00:05:54,188
+I'll keep him tied up,
+
+215
+00:05:52,477 --> 00:05:54,188
+it won't happen again.
+
+216
+00:05:54,229 --> 00:05:55,230
+Y'all have a good night.
+
+217
+00:05:55,272 --> 00:05:56,606
+MARY:
+
+218
+00:05:55,272 --> 00:05:56,606
+George!
+
+219
+00:05:56,648 --> 00:05:59,026
+You are not gonna
+
+220
+00:05:56,648 --> 00:05:59,026
+believe this. Look.
+
+221
+00:05:59,067 --> 00:06:01,820
+Their dog left a dead squirrel
+
+222
+00:05:59,067 --> 00:06:01,820
+in our living room.
+
+223
+00:06:01,862 --> 00:06:03,822
+Well, h-he is part hunting dog.
+
+224
+00:06:03,864 --> 00:06:05,199
+I think that means he likes you.
+
+225
+00:06:05,240 --> 00:06:07,868
+I'm not interested in
+
+226
+00:06:05,240 --> 00:06:07,868
+winning his affection.
+
+227
+00:06:07,909 --> 00:06:10,912
+I'm interested in keeping dogs
+
+228
+00:06:07,909 --> 00:06:10,912
+and rodents outside of my home.
+
+229
+00:06:10,954 --> 00:06:12,206
+BRENDA: Well,
+
+230
+00:06:10,954 --> 00:06:12,206
+now, hold on.
+
+231
+00:06:12,247 --> 00:06:13,498
+How do we know it was
+
+232
+00:06:12,247 --> 00:06:13,498
+Bucky that left
+
+233
+00:06:13,540 --> 00:06:14,916
+that squirrel
+
+234
+00:06:13,540 --> 00:06:14,916
+in your house?
+
+235
+00:06:14,958 --> 00:06:16,710
+Maybe that squirrel
+
+236
+00:06:14,958 --> 00:06:16,710
+was already there.
+
+237
+00:06:16,751 --> 00:06:20,214
+Why else would a dead squirrel
+
+238
+00:06:16,751 --> 00:06:20,214
+be in my living room?
+
+239
+00:06:20,255 --> 00:06:22,007
+I don't know what kind
+
+240
+00:06:20,255 --> 00:06:22,007
+of house you keep.
+
+241
+00:06:22,049 --> 00:06:22,924
+(gasps)
+
+242
+00:06:22,966 --> 00:06:23,800
+My house
+
+243
+00:06:23,842 --> 00:06:24,926
+is immaculate.
+
+244
+00:06:24,968 --> 00:06:26,385
+George, tell them.
+
+245
+00:06:24,968 --> 00:06:26,385
+Uh...
+
+246
+00:06:26,427 --> 00:06:28,347
+She does keep a nice house.
+
+247
+00:06:28,387 --> 00:06:30,431
+Honey, it's a pretty good chance
+
+248
+00:06:28,387 --> 00:06:30,431
+it was Bucky.
+
+249
+00:06:30,473 --> 00:06:32,600
+Whose side are you on?
+
+250
+00:06:30,473 --> 00:06:32,600
+Yours, always yours.
+
+251
+00:06:32,642 --> 00:06:33,685
+All right.
+
+252
+00:06:33,727 --> 00:06:34,978
+Everyone's upset, it's late.
+
+253
+00:06:35,020 --> 00:06:36,395
+Maybe we should drop
+
+254
+00:06:35,020 --> 00:06:36,395
+this for tonight?
+
+255
+00:06:36,437 --> 00:06:38,357
+That's a good idea. Okay.
+
+256
+00:06:38,397 --> 00:06:39,774
+You just keep your dog
+
+257
+00:06:38,397 --> 00:06:39,774
+away from my son.
+
+258
+00:06:39,816 --> 00:06:41,526
+There you go
+
+259
+00:06:39,816 --> 00:06:41,526
+picking it up again.
+
+260
+00:06:39,816 --> 00:06:41,526
+I am sorry,
+
+261
+00:06:41,568 --> 00:06:42,944
+but their dog
+
+262
+00:06:41,568 --> 00:06:42,944
+broke into our home.
+
+263
+00:06:42,986 --> 00:06:44,029
+Something he
+
+264
+00:06:42,986 --> 00:06:44,029
+probably learned
+
+265
+00:06:44,071 --> 00:06:45,280
+from your brother.
+
+266
+00:06:45,322 --> 00:06:46,740
+How dare you.
+
+267
+00:06:46,781 --> 00:06:49,076
+Okay, I think that's
+
+268
+00:06:46,781 --> 00:06:49,076
+a good stopping point.
+
+269
+00:06:49,117 --> 00:06:50,785
+How do we know
+
+270
+00:06:49,117 --> 00:06:50,785
+that your son didn't
+
+271
+00:06:50,827 --> 00:06:53,955
+lure Bucky in to perform weird
+
+272
+00:06:50,827 --> 00:06:53,955
+science experiments on him?
+
+273
+00:06:53,997 --> 00:06:55,999
+My son was asleep in his bed,
+
+274
+00:06:53,997 --> 00:06:55,999
+and you have some nerve...
+
+275
+00:06:56,041 --> 00:06:57,334
+(squirrel chittering)
+
+276
+00:06:57,376 --> 00:06:58,793
+(screams)
+
+277
+00:06:58,835 --> 00:07:00,461
+Oh, oh, oh! Oh!
+
+278
+00:07:00,503 --> 00:07:02,089
+HERSCHEL:
+
+279
+00:07:00,503 --> 00:07:02,089
+Night, George!
+
+280
+00:07:02,130 --> 00:07:03,090
+Night!
+
+281
+00:07:03,131 --> 00:07:05,508
+(screeching)
+
+282
+00:07:07,928 --> 00:07:09,346
+I don't understand
+
+283
+00:07:07,928 --> 00:07:09,346
+why that dog
+
+284
+00:07:09,388 --> 00:07:11,014
+is so interested in Sheldon.
+
+285
+00:07:11,056 --> 00:07:13,558
+Maybe Bucky likes the way
+
+286
+00:07:11,056 --> 00:07:13,558
+Sheldon smells?
+
+287
+00:07:13,600 --> 00:07:15,602
+Your brother washes himself
+
+288
+00:07:13,600 --> 00:07:15,602
+three times a day.
+
+289
+00:07:15,643 --> 00:07:17,271
+He has no smell.
+
+290
+00:07:17,312 --> 00:07:18,479
+Here we go: animal control.
+
+291
+00:07:18,521 --> 00:07:19,856
+MEEMAW:
+
+292
+00:07:18,521 --> 00:07:19,856
+Oh, no, no.
+
+293
+00:07:19,898 --> 00:07:22,817
+No, you don't want
+
+294
+00:07:19,898 --> 00:07:22,817
+to go calling animal control.
+
+295
+00:07:22,859 --> 00:07:24,945
+Why not?
+
+296
+00:07:22,859 --> 00:07:24,945
+Because,
+
+297
+00:07:24,986 --> 00:07:27,072
+you have to live next door
+
+298
+00:07:24,986 --> 00:07:27,072
+to these people.
+
+299
+00:07:27,114 --> 00:07:31,118
+They called the cops on Georgie
+
+300
+00:07:27,114 --> 00:07:31,118
+when he played music too loud.
+
+301
+00:07:31,159 --> 00:07:34,288
+Maybe it was them,
+
+302
+00:07:31,159 --> 00:07:34,288
+maybe it was me.
+
+303
+00:07:34,329 --> 00:07:35,330
+Anyway, the point is,
+
+304
+00:07:35,372 --> 00:07:36,581
+you don't can't
+
+305
+00:07:35,372 --> 00:07:36,581
+go throwing
+
+306
+00:07:36,623 --> 00:07:38,166
+gasoline on the fire.
+
+307
+00:07:38,208 --> 00:07:39,542
+Well, they started this fire,
+
+308
+00:07:39,584 --> 00:07:41,169
+and now,
+
+309
+00:07:39,584 --> 00:07:41,169
+they're gonna get burned.
+
+310
+00:07:41,211 --> 00:07:43,671
+I believe you've had
+
+311
+00:07:41,211 --> 00:07:43,671
+enough coffee.
+
+312
+00:07:43,713 --> 00:07:46,925
+Listen, why don't you
+
+313
+00:07:43,713 --> 00:07:46,925
+let me talk to Brenda,
+
+314
+00:07:46,967 --> 00:07:48,176
+and just smooth things out?
+
+315
+00:07:48,218 --> 00:07:49,510
+Why do you think
+
+316
+00:07:48,218 --> 00:07:49,510
+she'll listen to you?
+
+317
+00:07:49,552 --> 00:07:52,013
+Because people like me
+
+318
+00:07:49,552 --> 00:07:52,013
+more than you.
+
+319
+00:07:52,055 --> 00:07:54,099
+People like me.
+
+320
+00:07:54,141 --> 00:07:56,310
+I didn't say they don't,
+
+321
+00:07:54,141 --> 00:07:56,310
+they just like me more.
+
+322
+00:07:56,351 --> 00:07:57,436
+Anyway,
+
+323
+00:07:57,477 --> 00:07:58,937
+I see her all the
+
+324
+00:07:57,477 --> 00:07:58,937
+time at bowling.
+
+325
+00:07:58,979 --> 00:08:00,730
+I know how to handle her.
+
+326
+00:08:00,772 --> 00:08:01,940
+Fine.
+
+327
+00:08:01,982 --> 00:08:03,691
+Thank you.
+
+328
+00:08:08,196 --> 00:08:11,241
+Plenty of people like me.
+
+329
+00:08:16,163 --> 00:08:18,206
+Hey, Brenda, how's it going?
+
+330
+00:08:18,248 --> 00:08:21,751
+Your daughter's a pain in
+
+331
+00:08:18,248 --> 00:08:21,751
+my ass, that's how it's going.
+
+332
+00:08:21,793 --> 00:08:23,837
+(laughs)
+
+333
+00:08:23,878 --> 00:08:25,213
+You don't beat around the bush.
+
+334
+00:08:25,255 --> 00:08:27,382
+I've always liked that
+
+335
+00:08:25,255 --> 00:08:27,382
+about you.
+
+336
+00:08:27,424 --> 00:08:29,092
+Connie, I've had a long night.
+
+337
+00:08:29,134 --> 00:08:31,552
+Unless you're looking to bowl,
+
+338
+00:08:29,134 --> 00:08:31,552
+I don't want to hear it.
+
+339
+00:08:31,594 --> 00:08:33,096
+Aw, now, come on.
+
+340
+00:08:33,138 --> 00:08:35,722
+Let me buy you a drink,
+
+341
+00:08:33,138 --> 00:08:35,722
+and we'll talk about this.
+
+342
+00:08:35,765 --> 00:08:38,226
+I'm more on your side
+
+343
+00:08:35,765 --> 00:08:38,226
+than you think.
+
+344
+00:08:38,268 --> 00:08:39,227
+Somehow,
+
+345
+00:08:39,269 --> 00:08:41,645
+I doubt that.
+
+346
+00:08:39,269 --> 00:08:41,645
+It's true.
+
+347
+00:08:41,688 --> 00:08:45,400
+Don't you think I realize
+
+348
+00:08:41,688 --> 00:08:45,400
+that Mary can be a bit...
+
+349
+00:08:45,442 --> 00:08:47,152
+Of a self-righteous bitch?
+
+350
+00:08:47,194 --> 00:08:50,113
+I was gonna say "challenging,"
+
+351
+00:08:47,194 --> 00:08:50,113
+but sure, let's go with yours.
+
+352
+00:08:50,155 --> 00:08:52,366
+It's got a nice rhythm.
+
+353
+00:08:53,367 --> 00:08:55,327
+Mmm.
+
+354
+00:08:55,369 --> 00:08:56,786
+Brenda, this is, by far,
+
+355
+00:08:56,828 --> 00:08:59,414
+the best bowling alley
+
+356
+00:08:56,828 --> 00:08:59,414
+margarita in town.
+
+357
+00:08:59,456 --> 00:09:00,832
+How long
+
+358
+00:09:00,874 --> 00:09:03,168
+you and Herschel been married?
+
+359
+00:09:00,874 --> 00:09:03,168
+18, 19 years?
+
+360
+00:09:03,210 --> 00:09:05,670
+19, but it feels like 30.
+
+361
+00:09:05,712 --> 00:09:08,006
+(chuckles) Well,
+
+362
+00:09:05,712 --> 00:09:08,006
+y'all are a great couple.
+
+363
+00:09:08,048 --> 00:09:09,132
+Eh.
+
+364
+00:09:09,174 --> 00:09:10,967
+I just wanted to thank you
+
+365
+00:09:11,009 --> 00:09:13,470
+for being so patient and kind
+
+366
+00:09:11,009 --> 00:09:13,470
+to my daughter and her family
+
+367
+00:09:13,512 --> 00:09:14,846
+since they moved in.
+
+368
+00:09:14,888 --> 00:09:16,639
+It's nothing.
+
+369
+00:09:14,888 --> 00:09:16,639
+No,
+
+370
+00:09:16,681 --> 00:09:18,433
+it needs to be said.
+
+371
+00:09:18,475 --> 00:09:21,186
+You know, Mary has a tough job
+
+372
+00:09:18,475 --> 00:09:21,186
+raising those three kids,
+
+373
+00:09:21,228 --> 00:09:24,605
+with one of them being,
+
+374
+00:09:21,228 --> 00:09:24,605
+you know, somewhat special.
+
+375
+00:09:24,647 --> 00:09:26,525
+I can see that.
+
+376
+00:09:24,647 --> 00:09:26,525
+Yeah.
+
+377
+00:09:26,566 --> 00:09:30,028
+And having a kind neighbor makes
+
+378
+00:09:26,566 --> 00:09:30,028
+all the difference in the world.
+
+379
+00:09:30,070 --> 00:09:31,363
+Well, we try.
+
+380
+00:09:31,405 --> 00:09:34,574
+And I know you know
+
+381
+00:09:31,405 --> 00:09:34,574
+how stressful it is,
+
+382
+00:09:34,615 --> 00:09:36,451
+seeing as how you have
+
+383
+00:09:34,615 --> 00:09:36,451
+your own child
+
+384
+00:09:36,493 --> 00:09:39,454
+who is special in his own way.
+
+385
+00:09:39,496 --> 00:09:41,122
+What's that supposed to mean?
+
+386
+00:09:41,164 --> 00:09:45,293
+Well, I mean, hey, I know
+
+387
+00:09:41,164 --> 00:09:45,293
+Billy is a terrific little boy,
+
+388
+00:09:45,335 --> 00:09:48,505
+but I am sure he has presented
+
+389
+00:09:45,335 --> 00:09:48,505
+you and Herschel
+
+390
+00:09:48,547 --> 00:09:50,215
+with some challenges.
+
+391
+00:09:50,257 --> 00:09:52,217
+If there's a weird kid
+
+392
+00:09:50,257 --> 00:09:52,217
+in the neighborhood,
+
+393
+00:09:52,259 --> 00:09:53,760
+it's your grandson.
+
+394
+00:09:53,801 --> 00:09:57,680
+Now, hang on, I said
+
+395
+00:09:53,801 --> 00:09:57,680
+"special," not "weird."
+
+396
+00:09:57,722 --> 00:09:58,890
+I heard you.
+
+397
+00:09:58,932 --> 00:10:00,141
+I said "weird."
+
+398
+00:10:00,183 --> 00:10:02,060
+Okay, see now, Brenda,
+
+399
+00:10:02,102 --> 00:10:03,978
+you don't want to go calling
+
+400
+00:10:02,102 --> 00:10:03,978
+my grandson weird
+
+401
+00:10:04,020 --> 00:10:06,523
+when I've just treated you
+
+402
+00:10:04,020 --> 00:10:06,523
+to a margarita<i> grande.</i>
+
+403
+00:10:06,565 --> 00:10:08,900
+Well, I'm sorry,
+
+404
+00:10:06,565 --> 00:10:08,900
+but you shouldn't be inferring
+
+405
+00:10:08,942 --> 00:10:10,944
+there's something wrong
+
+406
+00:10:08,942 --> 00:10:10,944
+with my Billy.
+
+407
+00:10:10,985 --> 00:10:13,113
+Darlin', there's no inferring.
+
+408
+00:10:13,154 --> 00:10:15,031
+I've seen the boy
+
+409
+00:10:13,154 --> 00:10:15,031
+sitting in the dirt
+
+410
+00:10:15,073 --> 00:10:17,784
+eating his own
+
+411
+00:10:15,073 --> 00:10:17,784
+belly button lint.
+
+412
+00:10:20,328 --> 00:10:23,039
+♪ That's the way
+
+413
+00:10:20,328 --> 00:10:23,039
+the girls are in Texas ♪
+
+414
+00:10:23,081 --> 00:10:25,292
+(gasps)
+
+415
+00:10:25,333 --> 00:10:27,710
+Really, Mom? This is how
+
+416
+00:10:25,333 --> 00:10:27,710
+you put out the fire?
+
+417
+00:10:27,752 --> 00:10:30,255
+Well, at least she got
+
+418
+00:10:27,752 --> 00:10:30,255
+the worst of it.
+
+419
+00:10:30,297 --> 00:10:31,631
+How you figure that?
+
+420
+00:10:31,672 --> 00:10:34,217
+I ripped a big patch of hair
+
+421
+00:10:31,672 --> 00:10:34,217
+out of her head.
+
+422
+00:10:35,676 --> 00:10:37,387
+This will be healed in a week.
+
+423
+00:10:37,429 --> 00:10:40,098
+She will be wearing a hat
+
+424
+00:10:37,429 --> 00:10:40,098
+till Labor Day.
+
+425
+00:10:40,140 --> 00:10:41,475
+(chuckles)
+
+426
+00:10:41,516 --> 00:10:43,393
+I want to be just like you
+
+427
+00:10:41,516 --> 00:10:43,393
+when I grow up.
+
+428
+00:10:43,435 --> 00:10:45,353
+No, you don't.
+
+429
+00:10:43,435 --> 00:10:45,353
+Pick again.
+
+430
+00:10:55,905 --> 00:10:57,240
+Excuse me, Ms. Hutchins?
+
+431
+00:10:57,282 --> 00:10:59,242
+Hey, Sheldon.
+
+432
+00:10:59,284 --> 00:11:01,578
+Can you recommend any books
+
+433
+00:10:59,284 --> 00:11:01,578
+on overcoming phobias?
+
+434
+00:11:01,620 --> 00:11:04,372
+That's in the self-help section.
+
+435
+00:11:04,414 --> 00:11:07,083
+Follow me, I have read them all.
+
+436
+00:11:07,125 --> 00:11:09,836
+Any phobia
+
+437
+00:11:07,125 --> 00:11:09,836
+in particular?
+
+438
+00:11:07,125 --> 00:11:09,836
+Dogs.
+
+439
+00:11:09,877 --> 00:11:11,879
+Ah, cynophobia.
+
+440
+00:11:09,877 --> 00:11:11,879
+That's a good one.
+
+441
+00:11:11,921 --> 00:11:14,799
+Did you know there's
+
+442
+00:11:11,921 --> 00:11:14,799
+over 50 million dogs
+
+443
+00:11:14,841 --> 00:11:16,092
+just in the United States alone?
+
+444
+00:11:16,134 --> 00:11:18,677
+That's 50 million
+
+445
+00:11:16,134 --> 00:11:18,677
+too many.
+
+446
+00:11:18,719 --> 00:11:21,348
+Here. I read this one to help
+
+447
+00:11:18,719 --> 00:11:21,348
+with my haphephobia.
+
+448
+00:11:21,389 --> 00:11:25,393
+Ah, fear of being touched.
+
+449
+00:11:21,389 --> 00:11:25,393
+I have that, too. Was it useful?
+
+450
+00:11:25,435 --> 00:11:28,896
+Well, when someone's
+
+451
+00:11:25,435 --> 00:11:28,896
+interested in touching me,
+
+452
+00:11:28,938 --> 00:11:30,524
+we'll find out.
+
+453
+00:11:32,400 --> 00:11:34,944
+(sighs)
+
+454
+00:11:32,400 --> 00:11:34,944
+ADULT SHELDON:
+
+455
+00:11:32,400 --> 00:11:34,944
+<i>The basic premise</i>
+
+456
+00:11:34,986 --> 00:11:36,737
+<i>of the book was that phobias</i>
+
+457
+00:11:36,779 --> 00:11:38,906
+<i>were overcome by taking</i>
+
+458
+00:11:36,779 --> 00:11:38,906
+<i>incremental steps</i>
+
+459
+00:11:38,948 --> 00:11:41,493
+<i>toward confronting</i>
+
+460
+00:11:38,948 --> 00:11:41,493
+<i>the phobia in question.</i>
+
+461
+00:11:41,535 --> 00:11:44,538
+<i>In my case, that started</i>
+
+462
+00:11:41,535 --> 00:11:44,538
+<i>with watching a TV show</i>
+
+463
+00:11:44,579 --> 00:11:47,165
+<i>that was adored by children</i>
+
+464
+00:11:44,579 --> 00:11:47,165
+<i>around the world,</i>
+
+465
+00:11:47,207 --> 00:11:50,544
+<i>but for me,</i>
+
+466
+00:11:47,207 --> 00:11:50,544
+<i>was the stuff of nightmares.</i>
+
+467
+00:11:50,585 --> 00:11:53,046
+Scooby-Doo!
+
+468
+00:11:53,087 --> 00:11:56,466
+<i>The next step</i>
+
+469
+00:11:53,087 --> 00:11:56,466
+<i>was to go face-to-face</i>
+
+470
+00:11:56,508 --> 00:11:59,093
+<i>with real dogs.</i>
+
+471
+00:11:59,135 --> 00:12:01,888
+<i>Albeit through</i>
+
+472
+00:11:59,135 --> 00:12:01,888
+<i>a plate-glass window.</i>
+
+473
+00:12:01,929 --> 00:12:03,014
+Okay, that's enough.
+
+474
+00:12:03,056 --> 00:12:04,474
+ADULT SHELDON:
+
+475
+00:12:03,056 --> 00:12:04,474
+<i>And finally,</i>
+
+476
+00:12:04,516 --> 00:12:07,227
+<i>a close encounter</i>
+
+477
+00:12:04,516 --> 00:12:07,227
+<i>of the third kind,</i>
+
+478
+00:12:07,268 --> 00:12:09,770
+<i>physical contact with a member</i>
+
+479
+00:12:07,268 --> 00:12:09,770
+<i>of the canine species.</i>
+
+480
+00:12:09,812 --> 00:12:14,401
+Hello, I'd like to speak
+
+481
+00:12:09,812 --> 00:12:14,401
+with the veterinarian.
+
+482
+00:12:14,442 --> 00:12:16,735
+Well, I was hoping
+
+483
+00:12:14,442 --> 00:12:16,735
+you might have one or two dogs
+
+484
+00:12:16,777 --> 00:12:19,906
+under anesthesia that
+
+485
+00:12:16,777 --> 00:12:19,906
+I might come by and pet.
+
+486
+00:12:19,947 --> 00:12:21,491
+Sure, I'll hold.
+
+487
+00:12:21,533 --> 00:12:23,535
+Who are you talking to?
+
+488
+00:12:23,577 --> 00:12:25,662
+The Medford Veterinary Clinic.
+
+489
+00:12:25,704 --> 00:12:27,288
+Why?
+
+490
+00:12:27,330 --> 00:12:29,040
+I'm trying to overcome
+
+491
+00:12:27,330 --> 00:12:29,040
+my fear of dogs
+
+492
+00:12:29,082 --> 00:12:31,418
+before it affects
+
+493
+00:12:29,082 --> 00:12:31,418
+our family any further.
+
+494
+00:12:31,459 --> 00:12:34,003
+Oh, honey, you don't have to
+
+495
+00:12:31,459 --> 00:12:34,003
+worry about how it affects us.
+
+496
+00:12:34,045 --> 00:12:36,755
+Meemaw got punched
+
+497
+00:12:34,045 --> 00:12:36,755
+in the face because of me.
+
+498
+00:12:36,797 --> 00:12:40,885
+No, that wasn't because of you,
+
+499
+00:12:36,797 --> 00:12:40,885
+and for the record,
+
+500
+00:12:40,927 --> 00:12:43,012
+your meemaw gets punched
+
+501
+00:12:40,927 --> 00:12:43,012
+in the face all the time.
+
+502
+00:12:43,054 --> 00:12:44,805
+Well, I still think
+
+503
+00:12:43,054 --> 00:12:44,805
+I need to take
+
+504
+00:12:44,847 --> 00:12:46,433
+some sort of positive action.
+
+505
+00:12:46,474 --> 00:12:47,975
+WOMAN (on phone): Hello?
+
+506
+00:12:46,474 --> 00:12:47,975
+Yes, hello?
+
+507
+00:12:48,017 --> 00:12:49,644
+Oh, that's too bad.
+
+508
+00:12:49,686 --> 00:12:53,523
+How about a small fluffy one
+
+509
+00:12:49,686 --> 00:12:53,523
+that's recently died of old age?
+
+510
+00:12:53,565 --> 00:12:55,191
+Enough.
+
+511
+00:12:55,233 --> 00:12:57,860
+Sorry. (sighs)
+
+512
+00:13:03,782 --> 00:13:05,619
+Now, it says here
+
+513
+00:13:03,782 --> 00:13:05,619
+in Mark 12:31
+
+514
+00:13:05,660 --> 00:13:06,869
+that you should
+
+515
+00:13:05,660 --> 00:13:06,869
+"Love your neighbor
+
+516
+00:13:06,911 --> 00:13:08,955
+as yourself."
+
+517
+00:13:08,996 --> 00:13:11,916
+Anybody like to take a guess
+
+518
+00:13:08,996 --> 00:13:11,916
+what that means? Missy?
+
+519
+00:13:11,958 --> 00:13:14,961
+It means to be nice to
+
+520
+00:13:11,958 --> 00:13:14,961
+the people who live next door.
+
+521
+00:13:15,002 --> 00:13:16,170
+That's right.
+
+522
+00:13:16,212 --> 00:13:18,465
+But everybody else
+
+523
+00:13:16,212 --> 00:13:18,465
+can go to hell.
+
+524
+00:13:18,506 --> 00:13:21,842
+Okay, Missy, we don't use
+
+525
+00:13:18,506 --> 00:13:21,842
+that kind of language here.
+
+526
+00:13:21,884 --> 00:13:23,595
+And if you think about it,
+
+527
+00:13:21,884 --> 00:13:23,595
+in this world,
+
+528
+00:13:23,637 --> 00:13:27,265
+with all the ways we can travel,
+
+529
+00:13:23,637 --> 00:13:27,265
+everybody's your neighbor.
+
+530
+00:13:27,307 --> 00:13:28,767
+Yes, Sheldon.
+
+531
+00:13:28,807 --> 00:13:30,310
+How do we love
+
+532
+00:13:28,807 --> 00:13:30,310
+our neighbors
+
+533
+00:13:30,351 --> 00:13:32,228
+when our moms hate each other?
+
+534
+00:13:32,270 --> 00:13:34,439
+Who does your mom hate?
+
+535
+00:13:32,270 --> 00:13:34,439
+Your mom.
+
+536
+00:13:34,481 --> 00:13:37,734
+Hey, my mom hates your mom.
+
+537
+00:13:34,481 --> 00:13:37,734
+Small world.
+
+538
+00:13:37,776 --> 00:13:39,026
+Okay, let's hang on a second.
+
+539
+00:13:39,068 --> 00:13:40,737
+My mom also hates
+
+540
+00:13:39,068 --> 00:13:40,737
+their grandma.
+
+541
+00:13:40,779 --> 00:13:42,196
+'Cause she lost a fight to her.
+
+542
+00:13:42,238 --> 00:13:45,241
+Nuh-uh, she won. She said so.
+
+543
+00:13:45,283 --> 00:13:46,951
+All right, stop. Let's stop.
+
+544
+00:13:46,993 --> 00:13:49,287
+Now this might be hard
+
+545
+00:13:46,993 --> 00:13:49,287
+to understand,
+
+546
+00:13:49,329 --> 00:13:51,331
+but living a loving,
+
+547
+00:13:49,329 --> 00:13:51,331
+Christian life
+
+548
+00:13:51,372 --> 00:13:54,041
+isn't always
+
+549
+00:13:51,372 --> 00:13:54,041
+the easiest thing to do.
+
+550
+00:13:55,126 --> 00:13:56,336
+Yes, Billy.
+
+551
+00:13:56,377 --> 00:13:59,130
+My mom's not crazy
+
+552
+00:13:56,377 --> 00:13:59,130
+about you either.
+
+553
+00:14:01,257 --> 00:14:04,636
+Just love your neighbor, 'kay?
+
+554
+00:14:01,257 --> 00:14:04,636
+(sniffs)
+
+555
+00:14:04,678 --> 00:14:07,305
+JEFF: Now, I am more than
+
+556
+00:14:04,678 --> 00:14:07,305
+willing to look the other way
+
+557
+00:14:07,347 --> 00:14:09,307
+when my parishioners don't
+
+558
+00:14:07,347 --> 00:14:09,307
+get along with each other.
+
+559
+00:14:09,349 --> 00:14:11,976
+That sort of thing happens,
+
+560
+00:14:09,349 --> 00:14:11,976
+but when it becomes a problem
+
+561
+00:14:12,018 --> 00:14:14,562
+for the children,
+
+562
+00:14:12,018 --> 00:14:14,562
+then I have to intervene.
+
+563
+00:14:14,604 --> 00:14:17,064
+There's no
+
+564
+00:14:14,604 --> 00:14:17,064
+problem here,
+
+565
+00:14:17,106 --> 00:14:19,400
+other than these two thinking
+
+566
+00:14:17,106 --> 00:14:19,400
+that they're better than me.
+
+567
+00:14:19,442 --> 00:14:20,735
+I don't think it, I know it.
+
+568
+00:14:20,777 --> 00:14:22,111
+I gave your mother
+
+569
+00:14:20,777 --> 00:14:22,111
+a good smacking.
+
+570
+00:14:22,153 --> 00:14:23,488
+I can give you one, too.
+
+571
+00:14:23,530 --> 00:14:25,782
+That's big talk from somebody
+
+572
+00:14:23,530 --> 00:14:25,782
+with a comb-over.
+
+573
+00:14:25,824 --> 00:14:27,283
+JEFF:
+
+574
+00:14:25,824 --> 00:14:27,283
+Ladies.
+
+575
+00:14:27,325 --> 00:14:29,202
+Do I need to remind you
+
+576
+00:14:27,325 --> 00:14:29,202
+that we are Christians?
+
+577
+00:14:29,243 --> 00:14:31,412
+In all our behavior,
+
+578
+00:14:29,243 --> 00:14:31,412
+in all our actions,
+
+579
+00:14:31,454 --> 00:14:34,957
+we must constantly
+
+580
+00:14:31,454 --> 00:14:34,957
+ask ourselves the question,
+
+581
+00:14:34,999 --> 00:14:36,835
+"What would Jesus do?"
+
+582
+00:14:36,876 --> 00:14:37,918
+Can I say something?
+
+583
+00:14:37,960 --> 00:14:39,379
+Would Jesus say it?
+
+584
+00:14:39,420 --> 00:14:41,422
+Never mind.
+
+585
+00:14:43,257 --> 00:14:44,843
+ADULT SHELDON:
+
+586
+00:14:43,257 --> 00:14:44,843
+<i>In my life, I've often</i>
+
+587
+00:14:44,884 --> 00:14:48,429
+<i>been accused of being</i>
+
+588
+00:14:44,884 --> 00:14:48,429
+<i>a physical coward,</i>
+
+589
+00:14:48,471 --> 00:14:51,932
+<i>and for the most part,</i>
+
+590
+00:14:48,471 --> 00:14:51,932
+<i>those accusations are correct.</i>
+
+591
+00:14:53,518 --> 00:14:57,564
+<i>But there have been times</i>
+
+592
+00:14:53,518 --> 00:14:57,564
+<i>when I've shown great courage.</i>
+
+593
+00:14:57,605 --> 00:15:00,650
+<i>This was one of them.</i>
+
+594
+00:15:00,692 --> 00:15:03,319
+Hello, Bucky.
+
+595
+00:15:03,361 --> 00:15:07,741
+Are you a good dog?
+
+596
+00:15:07,782 --> 00:15:10,368
+(sighs)
+
+597
+00:15:10,410 --> 00:15:12,995
+Please be a good dog.
+
+598
+00:15:13,037 --> 00:15:15,248
+(sighs) Please.
+
+599
+00:15:15,289 --> 00:15:18,042
+Now oftentimes,
+
+600
+00:15:15,289 --> 00:15:18,042
+when we don't like someone,
+
+601
+00:15:18,084 --> 00:15:20,461
+what's happening is
+
+602
+00:15:18,084 --> 00:15:20,461
+we see something in them
+
+603
+00:15:20,503 --> 00:15:22,088
+that we don't like in ourselves.
+
+604
+00:15:22,129 --> 00:15:23,548
+What are you saying?
+
+605
+00:15:23,590 --> 00:15:25,675
+Really? That was
+
+606
+00:15:23,590 --> 00:15:25,675
+over your head?
+
+607
+00:15:25,717 --> 00:15:28,010
+(scoffs)
+
+608
+00:15:25,717 --> 00:15:28,010
+I'm saying,
+
+609
+00:15:28,052 --> 00:15:30,304
+y'all might have more in common
+
+610
+00:15:28,052 --> 00:15:30,304
+than you think.
+
+611
+00:15:30,346 --> 00:15:32,724
+Well, don't say
+
+612
+00:15:30,346 --> 00:15:32,724
+both their kids are "special."
+
+613
+00:15:32,766 --> 00:15:35,435
+She does not
+
+614
+00:15:32,766 --> 00:15:35,435
+like that.
+
+615
+00:15:37,061 --> 00:15:38,813
+SHELDON:
+
+616
+00:15:37,061 --> 00:15:38,813
+<i>Okay.</i>
+
+617
+00:15:38,855 --> 00:15:41,566
+Here we go.
+
+618
+00:15:41,608 --> 00:15:45,945
+Petting... the dog.
+
+619
+00:16:00,919 --> 00:16:03,922
+I'm doing it.
+
+620
+00:16:03,963 --> 00:16:06,591
+I'm petting a dog.
+
+621
+00:16:06,633 --> 00:16:09,594
+I've conquered my phobia.
+
+622
+00:16:09,636 --> 00:16:13,222
+You're a good boy.
+
+623
+00:16:09,636 --> 00:16:13,222
+Yes, you are.
+
+624
+00:16:13,264 --> 00:16:15,391
+(sighs)
+
+625
+00:16:15,433 --> 00:16:18,311
+I'm sorry for the unkind things
+
+626
+00:16:15,433 --> 00:16:18,311
+I said to you.
+
+627
+00:16:20,271 --> 00:16:22,022
+Me, too.
+
+628
+00:16:23,149 --> 00:16:24,233
+Connie?
+
+629
+00:16:24,275 --> 00:16:25,985
+What?
+
+630
+00:16:26,026 --> 00:16:28,154
+Anything you'd like to say?
+
+631
+00:16:28,195 --> 00:16:30,865
+Not particularly.
+
+632
+00:16:30,907 --> 00:16:32,617
+Mom.
+
+633
+00:16:32,659 --> 00:16:34,076
+Okay.
+
+634
+00:16:35,954 --> 00:16:37,914
+I'm sorry for the things I said,
+
+635
+00:16:37,956 --> 00:16:41,876
+and, you know, what happened
+
+636
+00:16:37,956 --> 00:16:41,876
+at the bowling alley.
+
+637
+00:16:43,252 --> 00:16:45,463
+As am I.
+
+638
+00:16:46,881 --> 00:16:48,132
+Here.
+
+639
+00:16:48,174 --> 00:16:50,343
+I think this came out
+
+640
+00:16:48,174 --> 00:16:50,343
+of your head.
+
+641
+00:16:54,138 --> 00:16:56,599
+He licked me! He licked me!
+
+642
+00:16:56,641 --> 00:16:58,309
+The dog licked
+
+643
+00:16:56,641 --> 00:16:58,309
+my tongue!
+
+644
+00:16:58,351 --> 00:17:00,186
+I can still taste it!
+
+645
+00:17:00,227 --> 00:17:03,439
+Call 911!
+
+646
+00:17:00,227 --> 00:17:03,439
+(door slams)
+
+647
+00:17:03,481 --> 00:17:06,776
+I think Jesus
+
+648
+00:17:03,481 --> 00:17:06,776
+might go check that out.
+
+649
+00:17:09,111 --> 00:17:11,113
+<i>(Sheldon gargling)</i>
+
+650
+00:17:11,155 --> 00:17:13,073
+How's it going in there, baby?
+
+651
+00:17:13,115 --> 00:17:16,828
+SHELDON: (spits) Okay, but we're
+
+652
+00:17:13,115 --> 00:17:16,828
+gonna need more Listerine.
+
+653
+00:17:16,869 --> 00:17:19,914
+(gargling)
+
+654
+00:17:19,955 --> 00:17:23,083
+I'm proud of him for trying to
+
+655
+00:17:19,955 --> 00:17:23,083
+overcome that damn dog phobia.
+
+656
+00:17:23,125 --> 00:17:24,627
+You should tell him that.
+
+657
+00:17:24,669 --> 00:17:27,505
+Well, if he ever leaves
+
+658
+00:17:24,669 --> 00:17:27,505
+that bathroom, I will.
+
+659
+00:17:27,547 --> 00:17:30,967
+What I can't figure out is why
+
+660
+00:17:27,547 --> 00:17:30,967
+that dog is so drawn to Sheldon.
+
+661
+00:17:31,009 --> 00:17:32,426
+Beats me.
+
+662
+00:17:32,468 --> 00:17:34,846
+You say his owner's
+
+663
+00:17:32,468 --> 00:17:34,846
+in the slammer?
+
+664
+00:17:32,468 --> 00:17:34,846
+Yeah.
+
+665
+00:17:34,888 --> 00:17:37,264
+Wonder what kind of fella he is.
+
+666
+00:17:37,306 --> 00:17:39,893
+(rock music plays)
+
+667
+00:17:57,035 --> 00:17:58,828
+(sniffing)
+
+668
+00:17:58,870 --> 00:18:00,538
+(whines)
+
+669
+00:18:00,580 --> 00:18:03,290
+It's a mystery.
+
+670
+00:18:03,332 --> 00:18:06,252
+I guess we'll
+
+671
+00:18:03,332 --> 00:18:06,252
+never know.
+
+672
+00:18:10,130 --> 00:18:11,507
+MEEMAW:
+
+673
+00:18:10,130 --> 00:18:11,507
+Hey, Moonpie.
+
+674
+00:18:11,549 --> 00:18:14,385
+I got you a little something
+
+675
+00:18:11,549 --> 00:18:14,385
+to help you
+
+676
+00:18:14,427 --> 00:18:16,512
+get over your fear of animals.
+
+677
+00:18:16,554 --> 00:18:18,431
+A tranquilizer gun?
+
+678
+00:18:18,472 --> 00:18:21,100
+A pet fish.
+
+679
+00:18:25,312 --> 00:18:26,564
+Why?
+
+680
+00:18:26,606 --> 00:18:28,274
+Well, I thought you could
+
+681
+00:18:26,606 --> 00:18:28,274
+start small
+
+682
+00:18:28,315 --> 00:18:29,525
+and then work your way up.
+
+683
+00:18:29,567 --> 00:18:32,946
+Look, he's
+
+684
+00:18:29,567 --> 00:18:32,946
+kind of cute.
+
+685
+00:18:32,987 --> 00:18:37,658
+He doesn't even care
+
+686
+00:18:32,987 --> 00:18:37,658
+that I'm here. I like him.
+
+687
+00:18:37,700 --> 00:18:39,702
+What are you
+
+688
+00:18:37,700 --> 00:18:39,702
+gonna name him?
+
+689
+00:18:39,744 --> 00:18:41,328
+Fish.
+
+690
+00:18:41,370 --> 00:18:42,580
+Fish?
+
+691
+00:18:42,622 --> 00:18:45,041
+I'm not ready to get attached.
+
+692
+00:18:46,417 --> 00:18:48,002
+Fish are kind of boring.
+
+693
+00:18:48,044 --> 00:18:50,212
+I know, isn't it great?
+
+694
+00:18:50,254 --> 00:18:51,631
+But you can't
+
+695
+00:18:50,254 --> 00:18:51,631
+even pet 'em.
+
+696
+00:18:51,672 --> 00:18:54,884
+Maybe we can.
+
+697
+00:18:54,926 --> 00:18:56,218
+(screaming)
+
+698
+00:18:56,260 --> 00:18:57,511
+Baby, what's wrong?
+
+699
+00:18:57,553 --> 00:19:01,223
+I tried to pet Fish!
+
+700
+00:18:57,553 --> 00:19:01,223
+Ah, he was so slimy!
+
+701
+00:19:01,265 --> 00:19:03,434
+Well, yeah, he's a fish.
+
+702
+00:19:03,476 --> 00:19:06,980
+I put my finger in the top
+
+703
+00:19:03,476 --> 00:19:06,980
+of the tank, then I touched him,
+
+704
+00:19:07,021 --> 00:19:08,188
+and he bit me!
+
+705
+00:19:08,230 --> 00:19:09,941
+Oh, I'm sure he didn't bite you.
+
+706
+00:19:09,983 --> 00:19:11,317
+SHELDON:
+
+707
+00:19:09,983 --> 00:19:11,317
+I can't breathe.
+
+708
+00:19:11,358 --> 00:19:14,862
+His fish blood is mixing
+
+709
+00:19:11,358 --> 00:19:14,862
+with my human blood.
+
+710
+00:19:14,904 --> 00:19:17,573
+Maybe he was just trying
+
+711
+00:19:14,904 --> 00:19:17,573
+to give you a kiss.
+
+712
+00:19:14,904 --> 00:19:17,573
+No.
+
+713
+00:19:17,615 --> 00:19:20,242
+He hates me. I never
+
+714
+00:19:17,615 --> 00:19:20,242
+want to see him again.
+
+715
+00:19:20,284 --> 00:19:21,577
+Oh, Sheldon,
+
+716
+00:19:20,284 --> 00:19:21,577
+you're being silly.
+
+717
+00:19:21,619 --> 00:19:23,537
+Fish like this don't bite.
+
+718
+00:19:24,622 --> 00:19:26,958
+Look. See?
+
+719
+00:19:24,622 --> 00:19:26,958
+He's harmless.
+
+720
+00:19:27,000 --> 00:19:28,960
+Son of a bitch!
+
+721
+00:19:29,002 --> 00:19:30,461
+Dad killed my fish!
+
+722
+00:19:30,503 --> 00:19:31,504
+George!
+
+723
+00:19:31,545 --> 00:19:33,547
+He'll be fine.
+
+724
+00:19:33,589 --> 00:19:35,758
+Just got to put him
+
+725
+00:19:33,589 --> 00:19:35,758
+back in the bowl.
+
+726
+00:19:38,094 --> 00:19:40,680
+Oh, George.
+
+727
+00:19:50,356 --> 00:19:52,900
+<i>(toilet flushes)</i>
+
