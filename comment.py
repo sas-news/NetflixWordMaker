@@ -9,7 +9,6 @@ from nltk.stem import WordNetLemmatizer
 from wordfreq import zipf_frequency
 import random
 
-# 必要なNLTKデータのダウンロード
 nltk.download('punkt')
 nltk.download('wordnet')
 nltk.download('averaged_perceptron_tagger')
@@ -36,7 +35,6 @@ def remove_html_tags(text):
 
 global_difficult_words = {} 
 
-# WordNetLemmatizerのインスタンスを作成
 lemmatizer = WordNetLemmatizer()
 
 def get_wordnet_pos(treebank_tag):
@@ -59,9 +57,9 @@ def srt_time_to_seconds(srt_time):
 
 def extract_difficult_words(sentence, start_time_seconds, min_level, prob_threshold=0.3, word_time=0.75):
     global global_difficult_words
-    # start_time_seconds が float 型でない場合のみ変換を行う
+    
     if not isinstance(start_time_seconds, float):
-        start_time_seconds = srt_time_to_seconds(start_time_seconds)  # 字幕の開始時間を秒数に変換
+        start_time_seconds = srt_time_to_seconds(start_time_seconds)
     words = nltk.word_tokenize(sentence)
     tagged_words = nltk.pos_tag(words)
 
@@ -88,7 +86,7 @@ def extract_difficult_words(sentence, start_time_seconds, min_level, prob_thresh
                             'word': lemma_lower,
                             'definition': definition,
                             'sentence': sentence,
-                            'start_time_seconds': adjusted_start_time_seconds,  # 単語が取得された時間を更新
+                            'start_time_seconds': adjusted_start_time_seconds,
                             'count': 1
                         }
 
@@ -112,7 +110,7 @@ def print_data_to_csv(csv_file_path, title, start_datetime):
             })
 
 def process_srt_files(folder_path, output_csv_path, min_level, title, start_datetime):
-    accumulated_seconds = 0  # 加算される秒数を保持する変数
+    accumulated_seconds = 0
     for file_name in os.listdir(folder_path):
         if file_name.endswith('.srt'):
             srt_file_path = os.path.join(folder_path, file_name)
@@ -123,7 +121,7 @@ def process_srt_files(folder_path, output_csv_path, min_level, title, start_date
                 # 最後の字幕の終了時間を取得し、秒数に変換
                 last_end_time_srt = time_pairs[-1][1]
                 last_end_time_seconds = srt_time_to_seconds(last_end_time_srt)
-                # 現在のファイルの終了時間を次のファイルの開始時間として加算
+                
                 accumulated_seconds += last_end_time_seconds
             for index, subtitle_text in enumerate(subtitle_texts):
                 clean_text = remove_html_tags(subtitle_text)
@@ -140,11 +138,9 @@ min_level = 2.9  # 難しい単語とみなすZipfスケールの最大値を指
 start_datetime = datetime.now()  # 開始日時を現在の日時に設定
 word_time = 0.75
 
-# CSVファイルのヘッダーを書き込む
 with open(output_csv_path, 'w', newline='', encoding='utf-8') as csvfile:
     fieldnames = ['Date Added', 'Frequency', 'Word/Expression', 'Definition', 'Source', 'Context', 'Notes']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     writer.writeheader()
 
-# 実行部分の修正
 process_srt_files(folder_path, output_csv_path, min_level, title, start_datetime)
