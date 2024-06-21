@@ -90,15 +90,16 @@ def extract_difficult_words(sentence, start_time_seconds, min_level, prob_thresh
                             'count': 1
                         }
 
-def print_data_to_csv(csv_file_path, title, start_datetime):
+def print_data_to_csv(csv_file_path, title, datetime_segments):
     global global_difficult_words
+    segment_duration = calculate_total_minutes(folder_path) * 60 / len(datetime_segments)  # 秒単位で計算
     with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
         fieldnames = ['Date Added', 'Frequency', 'Word/Expression', 'Definition', 'Source', 'Context', 'Notes']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         
         for word, info in global_difficult_words.items():
-            added_seconds = info['start_time_seconds']
-            date_added = start_datetime + timedelta(seconds=added_seconds)
+            segment_index = int(info['start_time_seconds'] / segment_duration)
+            date_added = datetime_segments[min(segment_index, len(datetime_segments) - 1)]
             writer.writerow({
                 'Date Added': date_added.strftime('%Y/%m/%d %H:%M:%S'),
                 'Frequency': info['count'],
@@ -129,13 +130,30 @@ def process_srt_files(folder_path, output_csv_path, min_level, title, start_date
                 start_time_seconds = srt_time_to_seconds(start_time_srt) + accumulated_seconds  # 加算された時間を考慮
                 extract_difficult_words(clean_text, start_time_seconds, min_level, 0.3, word_time)  # 第2引数を start_time_seconds として渡す
 
-    print_data_to_csv(output_csv_path, title, start_datetime)
+    print_data_to_csv(output_csv_path, title, datetime_segments)
+
+def calculate_total_minutes(folder_path):
+    total_seconds = 0
+    for file_name in os.listdir(folder_path):
+        if file_name.endswith('.srt'):
+            srt_file_path = os.path.join(folder_path, file_name)
+            srt_content = read_srt_file(srt_file_path)
+            time_pairs = extract_subtitle_times(srt_content)
+            if time_pairs:
+                # 最後の字幕の終了時間を取得し、秒数に変換
+                last_end_time_srt = time_pairs[-1][1]
+                last_end_time_seconds = srt_time_to_seconds(last_end_time_srt)
+                total_seconds += last_end_time_seconds
+    total_minutes = total_seconds / 60
+    return total_minutes  # この行を追加
 
 title = 'One Piece'
 folder_path = f'srt/{title}'
 output_csv_path = 'output.csv'
 min_level = 2.9  # 難しい単語とみなすZipfスケールの最大値を指定
 start_datetime = datetime.now()  # 開始日時を現在の日時に設定
+datetime_segments = [datetime(2023, 1, 1, 12, 0), datetime(2023, 1, 2, 12, 0), datetime(2023, 1, 3, 12, 0)]
+
 word_time = 0.75
 
 with open(output_csv_path, 'w', newline='', encoding='utf-8') as csvfile:
@@ -143,4 +161,4 @@ with open(output_csv_path, 'w', newline='', encoding='utf-8') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     writer.writeheader()
 
-process_srt_files(folder_path, output_csv_path, min_level, title, start_datetime)
+process_srt_files(folder_path, output_csv_path, min_level, title, datetime_segments)
