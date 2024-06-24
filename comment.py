@@ -1,6 +1,5 @@
 import os
 import re
-import json
 import csv
 from datetime import datetime, timedelta
 import nltk
@@ -22,9 +21,6 @@ def extract_subtitle_texts(srt_content):
     return subtitle_texts
 
 def extract_subtitle_times(srt_content):
-    """
-    字幕ファイルの内容から時間情報を抽出し、それを開始時間と終了時間のペアのリストとして返す。
-    """
     time_pairs = re.findall(r'(\d+:\d+:\d+,\d+) --> (\d+:\d+:\d+,\d+)', srt_content)
     return time_pairs
 
@@ -33,12 +29,11 @@ def remove_html_tags(text):
     clean_text = clean_text.replace('\n', ' ')
     return clean_text
 
-global_difficult_words = {} 
+global_difficult_words = {}
 
 lemmatizer = WordNetLemmatizer()
 
 def get_wordnet_pos(treebank_tag):
-    """Treebank POSタグをWordNet POSタグに変換"""
     if treebank_tag.startswith('J'):
         return wordnet.ADJ
     elif treebank_tag.startswith('V'):
@@ -51,11 +46,10 @@ def get_wordnet_pos(treebank_tag):
         return None
 
 def srt_time_to_seconds(srt_time):
-    """SRT形式の時間を秒数に変換"""
     hours, minutes, seconds = map(float, re.split('[:,]', srt_time)[:3])
     return hours * 3600 + minutes * 60 + seconds
 
-def extract_difficult_words(sentence, start_time_seconds, min_level, prob_threshold=0.3, word_time=0.75):
+def extract_difficult_words(sentence, start_time_seconds, min_level, prob_threshold=0.3, word_time=0.75, segment_index=0, word_count=0):
     global global_difficult_words
     
     if not isinstance(start_time_seconds, float):
@@ -80,28 +74,28 @@ def extract_difficult_words(sentence, start_time_seconds, min_level, prob_thresh
                     synonyms = wordnet.synsets(lemma_lower)
                     if synonyms:
                         definition = synonyms[0].definition()
-                        # 単語が登録される時刻を計算
-                        adjusted_start_time_seconds = start_time_seconds + (word_time * len(global_difficult_words))
+                        adjusted_start_time_seconds = start_time_seconds + (word_time * word_count * 60)  # 分単位を秒単位に変換
                         global_difficult_words[lemma_lower] = {
                             'word': lemma_lower,
                             'definition': definition,
                             'sentence': sentence,
                             'start_time_seconds': adjusted_start_time_seconds,
-                            'count': 1
+                            'count': 1,
+                            'segment_index': segment_index
                         }
+                        word_count += 1  # 新しい単語をカウント
 
 def print_data_to_csv(csv_file_path, title, datetime_segments):
     global global_difficult_words
-    segment_duration = calculate_total_minutes(folder_path) * 60 / len(datetime_segments)  # 秒単位で計算
     with open(csv_file_path, 'a', newline='', encoding='utf-8') as csvfile:
         fieldnames = ['Date Added', 'Frequency', 'Word/Expression', 'Definition', 'Source', 'Context', 'Notes']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         
         for word, info in global_difficult_words.items():
-            segment_index = int(info['start_time_seconds'] / segment_duration)
-            date_added = datetime_segments[min(segment_index, len(datetime_segments) - 1)]
+            base_datetime = datetime_segments[info['segment_index']]
+            word_datetime = base_datetime + timedelta(seconds=info['start_time_seconds'])
             writer.writerow({
-                'Date Added': date_added.strftime('%Y/%m/%d %H:%M:%S'),
+                'Date Added': word_datetime.strftime('%Y/%m/%d %H:%M:%S'),
                 'Frequency': info['count'],
                 'Word/Expression': word,
                 'Definition': info['definition'],
@@ -110,27 +104,59 @@ def print_data_to_csv(csv_file_path, title, datetime_segments):
                 'Notes': ''
             })
 
-def process_srt_files(folder_path, output_csv_path, min_level, title, start_datetime):
-    accumulated_seconds = 0
+def process_srt_files(folder_path, output_csv_path, min_level, title, datetime_segments, word_time):
+    global global_difficult_words
+    total_minutes = calculate_total_minutes(folder_path)
+    average_minutes_per_segment = total_minutes / len(datetime_segments)
+    
+    # 各セグメントの視聴時間をランダムに振れ幅を持たせて分割
+    segment_minutes = [random.uniform(average_minutes_per_segment * 0.8, average_minutes_per_segment * 1.2) for _ in datetime_segments]
+    segment_seconds = [int(minutes * 60) for minutes in segment_minutes]
+
+    segment_index = 0  
+    accumulated_seconds = 0  
+    word_count = 0  # 各セグメントごとの単語カウント
+
+    # 各日付の視聴時間と単語時間を保持するリスト
+    viewing_times = []
+    word_times = []
+
     for file_name in os.listdir(folder_path):
         if file_name.endswith('.srt'):
             srt_file_path = os.path.join(folder_path, file_name)
             srt_content = read_srt_file(srt_file_path)
             subtitle_texts = extract_subtitle_texts(srt_content)
             time_pairs = extract_subtitle_times(srt_content)
-            if time_pairs:
-                # 最後の字幕の終了時間を取得し、秒数に変換
-                last_end_time_srt = time_pairs[-1][1]
-                last_end_time_seconds = srt_time_to_seconds(last_end_time_srt)
-                
-                accumulated_seconds += last_end_time_seconds
             for index, subtitle_text in enumerate(subtitle_texts):
                 clean_text = remove_html_tags(subtitle_text)
                 start_time_srt = time_pairs[index][0]
-                start_time_seconds = srt_time_to_seconds(start_time_srt) + accumulated_seconds  # 加算された時間を考慮
-                extract_difficult_words(clean_text, start_time_seconds, min_level, 0.3, word_time)  # 第2引数を start_time_seconds として渡す
+                start_time_seconds = srt_time_to_seconds(start_time_srt)
+                total_start_time_seconds = accumulated_seconds + start_time_seconds
+                extract_difficult_words(clean_text, total_start_time_seconds, min_level, 0.3, word_time, segment_index, word_count)
+            if time_pairs:
+                last_end_time_srt = time_pairs[-1][1]
+                last_end_time_seconds = srt_time_to_seconds(last_end_time_srt)
+                accumulated_seconds += last_end_time_seconds
+            if accumulated_seconds >= segment_seconds[segment_index]:
+                # 現在のセグメントの視聴時間と単語時間をリストに追加
+                viewing_times.append(segment_seconds[segment_index])
+                word_times.append(word_count * word_time * 60)  # 分単位を秒単位に変換
+                
+                accumulated_seconds -= segment_seconds[segment_index]  # 次のセグメントに繰り越す累積秒数
+                if segment_index < len(datetime_segments) - 1:
+                    segment_index += 1
+                    word_count = 0  # 単語カウントをリセット
+                else:
+                    segment_index = len(datetime_segments) - 1
 
     print_data_to_csv(output_csv_path, title, datetime_segments)
+
+    # 各日付の視聴時間と単語時間、合計時間を出力
+    for i, date in enumerate(datetime_segments):
+        viewing_time = viewing_times[i] if i < len(viewing_times) else 0
+        word_time_seconds = word_times[i] if i < len(word_times) else 0
+        total_time = viewing_time + word_time_seconds
+        print(f"Date: {date.strftime('%Y/%m/%d')}, Viewing Time: {timedelta(seconds=viewing_time)}, Word Time: {timedelta(seconds=word_time_seconds)}, Total Time: {timedelta(seconds=total_time)}")
 
 def calculate_total_minutes(folder_path):
     total_seconds = 0
@@ -140,18 +166,16 @@ def calculate_total_minutes(folder_path):
             srt_content = read_srt_file(srt_file_path)
             time_pairs = extract_subtitle_times(srt_content)
             if time_pairs:
-                # 最後の字幕の終了時間を取得し、秒数に変換
                 last_end_time_srt = time_pairs[-1][1]
                 last_end_time_seconds = srt_time_to_seconds(last_end_time_srt)
                 total_seconds += last_end_time_seconds
     total_minutes = total_seconds / 60
-    return total_minutes  # この行を追加
+    return total_minutes
 
 title = 'One Piece'
 folder_path = f'srt/{title}'
 output_csv_path = 'output.csv'
-min_level = 2.9  # 難しい単語とみなすZipfスケールの最大値を指定
-start_datetime = datetime.now()  # 開始日時を現在の日時に設定
+min_level = 2.9
 datetime_segments = [datetime(2023, 1, 1, 12, 0), datetime(2023, 1, 2, 12, 0), datetime(2023, 1, 3, 12, 0)]
 
 word_time = 0.75
@@ -161,4 +185,4 @@ with open(output_csv_path, 'w', newline='', encoding='utf-8') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     writer.writeheader()
 
-process_srt_files(folder_path, output_csv_path, min_level, title, datetime_segments)
+process_srt_files(folder_path, output_csv_path, min_level, title, datetime_segments, word_time)
