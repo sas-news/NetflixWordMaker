@@ -49,13 +49,15 @@ def srt_time_to_seconds(srt_time):
     hours, minutes, seconds = map(float, re.split('[:,]', srt_time)[:3])
     return hours * 3600 + minutes * 60 + seconds
 
-def extract_difficult_words(sentence, start_time_seconds, min_level, prob_threshold=0.3, word_time=0.75, segment_index=0, word_count=0):
+def extract_difficult_words(sentence, start_time_seconds, min_level, prob_threshold=0.3, word_time=0.75, segment_index=0):
     global global_difficult_words
     
     if not isinstance(start_time_seconds, float):
         start_time_seconds = srt_time_to_seconds(start_time_seconds)
     words = nltk.word_tokenize(sentence)
     tagged_words = nltk.pos_tag(words)
+
+    added_word_count = 0  # CSVに追加された単語の数をカウント
 
     for word, tag in tagged_words:
         wn_tag = get_wordnet_pos(tag)
@@ -74,7 +76,7 @@ def extract_difficult_words(sentence, start_time_seconds, min_level, prob_thresh
                     synonyms = wordnet.synsets(lemma_lower)
                     if synonyms:
                         definition = synonyms[0].definition()
-                        adjusted_start_time_seconds = start_time_seconds + (word_time * word_count * 60)  # 分単位を秒単位に変換
+                        adjusted_start_time_seconds = start_time_seconds + (added_word_count * word_time * 60)  # 分単位を秒単位に変換
                         global_difficult_words[lemma_lower] = {
                             'word': lemma_lower,
                             'definition': definition,
@@ -83,7 +85,9 @@ def extract_difficult_words(sentence, start_time_seconds, min_level, prob_thresh
                             'count': 1,
                             'segment_index': segment_index
                         }
-                        word_count += 1  # 新しい単語をカウント
+                        added_word_count += 1  # CSVに追加された単語の数をカウント
+
+    return added_word_count  # CSVに追加された単語の数を返す
 
 def print_data_to_csv(csv_file_path, title, datetime_segments):
     global global_difficult_words
@@ -115,7 +119,6 @@ def process_srt_files(folder_path, output_csv_path, min_level, title, datetime_s
 
     segment_index = 0  
     accumulated_seconds = 0  
-    word_count = 0  # 各セグメントごとの単語カウント
 
     # 各日付の視聴時間と単語時間を保持するリスト
     viewing_times = []
@@ -132,7 +135,8 @@ def process_srt_files(folder_path, output_csv_path, min_level, title, datetime_s
                 start_time_srt = time_pairs[index][0]
                 start_time_seconds = srt_time_to_seconds(start_time_srt)
                 total_start_time_seconds = accumulated_seconds + start_time_seconds
-                extract_difficult_words(clean_text, total_start_time_seconds, min_level, 0.3, word_time, segment_index, word_count)
+                added_word_count = extract_difficult_words(clean_text, total_start_time_seconds, min_level, 0.3, word_time, segment_index)
+                accumulated_seconds += added_word_count * word_time * 60  # 分単位を秒単位に変換
             if time_pairs:
                 last_end_time_srt = time_pairs[-1][1]
                 last_end_time_seconds = srt_time_to_seconds(last_end_time_srt)
@@ -140,14 +144,16 @@ def process_srt_files(folder_path, output_csv_path, min_level, title, datetime_s
             if accumulated_seconds >= segment_seconds[segment_index]:
                 # 現在のセグメントの視聴時間と単語時間をリストに追加
                 viewing_times.append(segment_seconds[segment_index])
-                word_times.append(word_count * word_time * 60)  # 分単位を秒単位に変換
+                word_times.append(accumulated_seconds - segment_seconds[segment_index])
                 
                 accumulated_seconds -= segment_seconds[segment_index]  # 次のセグメントに繰り越す累積秒数
                 if segment_index < len(datetime_segments) - 1:
                     segment_index += 1
-                    word_count = 0  # 単語カウントをリセット
-                else:
-                    segment_index = len(datetime_segments) - 1
+
+    if segment_index == len(datetime_segments) - 1:
+        # 最終セグメントの視聴時間と単語時間をリストに追加
+        viewing_times.append(accumulated_seconds)
+        word_times.append(accumulated_seconds)
 
     print_data_to_csv(output_csv_path, title, datetime_segments)
 
