@@ -101,7 +101,7 @@ def print_data_to_csv(csv_file_path, title, datetime_segments):
             writer.writerow({
                 'Date Added': word_datetime.strftime('%Y/%m/%d %H:%M:%S'),
                 'Frequency': info['count'],
-                'Word/Expression': word,
+                'Word/Expression': f'=HYPERLINK("https://www.oxfordlearnersdictionaries.com/definition/english/{word}", "{word}")',
                 'Definition': info['definition'],
                 'Source': title,
                 'Context': info['sentence'],
@@ -119,10 +119,11 @@ def process_srt_files(folder_path, output_csv_path, min_level, title, datetime_s
 
     segment_index = 0  
     accumulated_seconds = 0  
+    word_time_accumulated = 0
 
     # 各日付の視聴時間と単語時間を保持するリスト
-    viewing_times = []
-    word_times = []
+    viewing_times = [0] * len(datetime_segments)
+    word_times = [0] * len(datetime_segments)
 
     for file_name in os.listdir(folder_path):
         if file_name.endswith('.srt'):
@@ -136,24 +137,25 @@ def process_srt_files(folder_path, output_csv_path, min_level, title, datetime_s
                 start_time_seconds = srt_time_to_seconds(start_time_srt)
                 total_start_time_seconds = accumulated_seconds + start_time_seconds
                 added_word_count = extract_difficult_words(clean_text, total_start_time_seconds, min_level, 0.3, word_time, segment_index)
+                word_time_accumulated += added_word_count * word_time * 60  # 分単位を秒単位に変換
                 accumulated_seconds += added_word_count * word_time * 60  # 分単位を秒単位に変換
             if time_pairs:
                 last_end_time_srt = time_pairs[-1][1]
                 last_end_time_seconds = srt_time_to_seconds(last_end_time_srt)
                 accumulated_seconds += last_end_time_seconds
-            if accumulated_seconds >= segment_seconds[segment_index]:
+            while segment_index < len(segment_seconds) and accumulated_seconds >= segment_seconds[segment_index]:
                 # 現在のセグメントの視聴時間と単語時間をリストに追加
-                viewing_times.append(segment_seconds[segment_index])
-                word_times.append(accumulated_seconds - segment_seconds[segment_index])
-                
-                accumulated_seconds -= segment_seconds[segment_index]  # 次のセグメントに繰り越す累積秒数
-                if segment_index < len(datetime_segments) - 1:
-                    segment_index += 1
+                viewing_times[segment_index] = segment_seconds[segment_index]
+                word_times[segment_index] = word_time_accumulated
 
-    if segment_index == len(datetime_segments) - 1:
-        # 最終セグメントの視聴時間と単語時間をリストに追加
-        viewing_times.append(accumulated_seconds)
-        word_times.append(accumulated_seconds)
+                accumulated_seconds -= segment_seconds[segment_index]  # 累積秒数をセグメント秒数分減算
+                word_time_accumulated = 0  # 単語時間をリセット
+                segment_index += 1  # 次のセグメントに進む
+
+    # 残りの累積時間を最後のセグメントに追加
+    if segment_index < len(datetime_segments):
+        viewing_times[segment_index] += accumulated_seconds
+        word_times[segment_index] += word_time_accumulated
 
     print_data_to_csv(output_csv_path, title, datetime_segments)
 
@@ -162,7 +164,10 @@ def process_srt_files(folder_path, output_csv_path, min_level, title, datetime_s
         viewing_time = viewing_times[i] if i < len(viewing_times) else 0
         word_time_seconds = word_times[i] if i < len(word_times) else 0
         total_time = viewing_time + word_time_seconds
-        print(f"Date: {date.strftime('%Y/%m/%d')}, Viewing Time: {timedelta(seconds=viewing_time)}, Word Time: {timedelta(seconds=word_time_seconds)}, Total Time: {timedelta(seconds=total_time)}")
+        viewing_time_minutes = viewing_time / 60
+        word_time_minutes = word_time_seconds / 60
+        total_time_minutes = total_time / 60
+        print(f"Date: {date.strftime('%Y/%m/%d')}, Viewing Time: {viewing_time_minutes:.2f} minutes, Word Time: {word_time_minutes:.2f} minutes, Total Time: {total_time_minutes:.2f} minutes")
 
 def calculate_total_minutes(folder_path):
     total_seconds = 0
@@ -182,7 +187,7 @@ title = 'One Piece'
 folder_path = f'srt/{title}'
 output_csv_path = 'output.csv'
 min_level = 2.9
-datetime_segments = [datetime(2023, 1, 1, 12, 0), datetime(2023, 1, 2, 12, 0), datetime(2023, 1, 3, 12, 0)]
+datetime_segments = [datetime(2024, 6, 25, 20, 32), datetime(2024, 6, 26, 18, 16), datetime(2024, 6, 27, 17, 28), datetime(2024, 6, 28, 17, 45), datetime(2024, 6, 30, 10, 15), datetime(2024, 6, 30, 15, 32), datetime(2024, 7, 2, 18, 2), datetime(2024, 7, 3, 17, 2)]
 
 word_time = 0.75
 
