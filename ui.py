@@ -44,35 +44,38 @@ date_pickers_slider = widgets.IntSlider(
     description='日付:',
 )
 
-# タイトル選択に応じてデータを再取得し、動画数と日付入力欄を表示する関数
+srt_files_count = 0
+
 def on_title_change(change=None):
+    global srt_files_count
     clear_output(wait=True)
-    display(title_dropdown)  # タイトル選択ドロップダウンを再表示
+    display(title_dropdown)
     if change:
         selected_title = change['new']
     else:
         selected_title = title_dropdown.value
     repo_url = f'https://api.github.com/repos/sas-news/NetflixWordMaker/contents/srt/{selected_title}'
     srt_files_count = get_srt_files_count(repo_url)
-    display(Markdown(f"**合計動画数:** {srt_files_count}"))  # ファイル数をMarkdown形式で表示
-    date_pickers_slider.max = srt_files_count  # スライダーの最大値を更新
-    display(date_pickers_slider)  # スライダーを表示
-    on_slider_change(srt_files_count=srt_files_count)  # 日付入力欄を表示する関数を呼び出し
+    date_pickers_slider.max = 20
+    display(date_pickers_slider)
+    on_slider_change()  # srt_files_countはグローバル変数として扱われる
 
-# スライダーの値に応じて日付入力欄を生成・表示する関数
-def on_slider_change(change=None, srt_files_count=0):  # srt_files_countを引数として追加
+def on_slider_change(change=None):
+    global srt_files_count
     clear_output(wait=True)
-    display(title_dropdown)  # タイトル選択ドロップダウンを再表示
-    display(Markdown(f"話数: {srt_files_count}"))  # 動画数をMarkdown形式で再表示
-    display(date_pickers_slider)  # スライダーを再表示
+    display(title_dropdown)
+    display(Markdown(f"話数: {srt_files_count}"))
+    display(date_pickers_slider)
     if change:
         num_date_pickers = change['new']
     else:
         num_date_pickers = date_pickers_slider.value
-    # スライダーの値に応じて日付入力欄を生成
-    date_pickers = [widgets.DatePicker(description=f'日付 {i+1}:') for i in range(num_date_pickers)]
-    for picker in date_pickers:
-        display(picker)
+    # DatePickerとTextウィジェットをHBoxを使って横並びに表示
+    for i in range(num_date_pickers):
+        date_picker = widgets.DatePicker(description=f'日付 {i+1}:')
+        time_input = widgets.Text(value='00:00', description=f'時間 {i+1}:', placeholder='HH:MM')
+        hbox = widgets.HBox([date_picker, time_input])  # HBoxでウィジェットを横並びに配置
+        display(hbox)
 
 # タイトル選択の変更を監視
 title_dropdown.observe(on_title_change, names='value')

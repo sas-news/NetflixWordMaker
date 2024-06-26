@@ -1,3 +1,4 @@
+import base64
 import os
 import re
 import csv
@@ -7,11 +8,22 @@ from nltk.corpus import wordnet
 from nltk.stem import WordNetLemmatizer
 from wordfreq import zipf_frequency
 import random
+import requests
 
 nltk.download('punkt')
 nltk.download('wordnet')
 nltk.download('averaged_perceptron_tagger')
 
+def read_srt_file_from_github(repo, path, file_name):
+    url = f'https://api.github.com/repos/{repo}/contents/{path}/{file_name}'
+    response = requests.get(url)
+    if response.status_code == 200:
+        content = response.json()['content']
+        srt_content = base64.b64decode(content).decode('utf-8')
+        return srt_content
+    else:
+        print(f"Error fetching {file_name}: {response.status_code}")
+        return None
 def read_srt_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
@@ -110,10 +122,9 @@ def print_data_to_csv(csv_file_path, title, datetime_segments):
 
 def process_srt_files(folder_path, output_csv_path, min_level, title, datetime_segments, word_time):
     global global_difficult_words
-    total_minutes = calculate_total_minutes(folder_path)
+    total_minutes = calculate_total_minutes_from_github(github_repo, srt_path)
     average_minutes_per_segment = total_minutes / len(datetime_segments)
     
-    # 各セグメントの視聴時間をランダムに振れ幅を持たせて分割
     segment_minutes = [random.uniform(average_minutes_per_segment * 0.8, average_minutes_per_segment * 1.2) for _ in datetime_segments]
     segment_seconds = [int(minutes * 60) for minutes in segment_minutes]
 
@@ -121,38 +132,40 @@ def process_srt_files(folder_path, output_csv_path, min_level, title, datetime_s
     accumulated_seconds = 0  
     word_time_accumulated = 0
 
-    # 各日付の視聴時間と単語時間を保持するリスト
     viewing_times = [0] * len(datetime_segments)
     word_times = [0] * len(datetime_segments)
 
-    for file_name in os.listdir(folder_path):
-        if file_name.endswith('.srt'):
-            srt_file_path = os.path.join(folder_path, file_name)
-            srt_content = read_srt_file(srt_file_path)
-            subtitle_texts = extract_subtitle_texts(srt_content)
-            time_pairs = extract_subtitle_times(srt_content)
-            for index, subtitle_text in enumerate(subtitle_texts):
-                clean_text = remove_html_tags(subtitle_text)
-                start_time_srt = time_pairs[index][0]
-                start_time_seconds = srt_time_to_seconds(start_time_srt)
-                total_start_time_seconds = accumulated_seconds + start_time_seconds
-                added_word_count = extract_difficult_words(clean_text, total_start_time_seconds, min_level, 0.3, word_time, segment_index)
-                word_time_accumulated += added_word_count * word_time * 60  # 分単位を秒単位に変換
-                accumulated_seconds += added_word_count * word_time * 60  # 分単位を秒単位に変換
-            if time_pairs:
-                last_end_time_srt = time_pairs[-1][1]
-                last_end_time_seconds = srt_time_to_seconds(last_end_time_srt)
-                accumulated_seconds += last_end_time_seconds
-            while segment_index < len(segment_seconds) and accumulated_seconds >= segment_seconds[segment_index]:
-                # 現在のセグメントの視聴時間と単語時間をリストに追加
-                viewing_times[segment_index] = segment_seconds[segment_index]
-                word_times[segment_index] = word_time_accumulated
+    # GitHubからファイルリストを取得
+    files_url = f'https://api.github.com/repos/{github_repo}/contents/{folder_path}'
+    response = requests.get(files_url)
+    if response.status_code == 200:
+        files = response.json()
+        for file_info in files:
+            if file_info['name'].endswith('.srt'):
+                srt_content = read_srt_file_from_github(github_repo, folder_path, file_info['name'])
+                if srt_content:
+                    subtitle_texts = extract_subtitle_texts(srt_content)
+                    time_pairs = extract_subtitle_times(srt_content)
+                    for index, subtitle_text in enumerate(subtitle_texts):
+                        clean_text = remove_html_tags(subtitle_text)
+                        start_time_srt = time_pairs[index][0]
+                        start_time_seconds = srt_time_to_seconds(start_time_srt)
+                        total_start_time_seconds = accumulated_seconds + start_time_seconds
+                        added_word_count = extract_difficult_words(clean_text, total_start_time_seconds, min_level, 0.3, word_time, segment_index)
+                        word_time_accumulated += added_word_count * word_time * 60
+                        accumulated_seconds += added_word_count * word_time * 60
+                    if time_pairs:
+                        last_end_time_srt = time_pairs[-1][1]
+                        last_end_time_seconds = srt_time_to_seconds(last_end_time_srt)
+                        accumulated_seconds += last_end_time_seconds
+                    while segment_index < len(segment_seconds) and accumulated_seconds >= segment_seconds[segment_index]:
+                        viewing_times[segment_index] = segment_seconds[segment_index]
+                        word_times[segment_index] = word_time_accumulated
 
-                accumulated_seconds -= segment_seconds[segment_index]  # 累積秒数をセグメント秒数分減算
-                word_time_accumulated = 0  # 単語時間をリセット
-                segment_index += 1  # 次のセグメントに進む
+                        accumulated_seconds -= segment_seconds[segment_index]
+                        word_time_accumulated = 0
+                        segment_index += 1
 
-    # 残りの累積時間を最後のセグメントに追加
     if segment_index < len(datetime_segments):
         viewing_times[segment_index] += accumulated_seconds
         word_times[segment_index] += word_time_accumulated
@@ -169,6 +182,24 @@ def process_srt_files(folder_path, output_csv_path, min_level, title, datetime_s
         total_time_minutes = total_time / 60
         print(f"Date: {date.strftime('%Y/%m/%d')}, Viewing Time: {viewing_time_minutes:.2f} minutes, Word Time: {word_time_minutes:.2f} minutes, Total Time: {total_time_minutes:.2f} minutes")
 
+def calculate_total_minutes_from_github(repo, path):
+    total_seconds = 0
+    files_url = f'https://api.github.com/repos/{repo}/contents/{path}'
+    response = requests.get(files_url)
+    if response.status_code == 200:
+        files = response.json()
+        for file_info in files:
+            if file_info['name'].endswith('.srt'):
+                srt_content = read_srt_file_from_github(repo, path, file_info['name'])
+                if srt_content:
+                    time_pairs = extract_subtitle_times(srt_content)
+                    if time_pairs:
+                        last_end_time_srt = time_pairs[-1][1]
+                        last_end_time_seconds = srt_time_to_seconds(last_end_time_srt)
+                        total_seconds += last_end_time_seconds
+    total_minutes = total_seconds / 60
+    return total_minutes
+
 def calculate_total_minutes(folder_path):
     total_seconds = 0
     for file_name in os.listdir(folder_path):
@@ -184,7 +215,8 @@ def calculate_total_minutes(folder_path):
     return total_minutes
 
 title = 'One Piece'
-folder_path = f'srt/{title}'
+github_repo = 'sas-news/NetflixWordMaker'
+srt_path = f'srt/{title}'
 output_csv_path = 'output.csv'
 min_level = 2.9
 datetime_segments = [datetime(2024, 6, 25, 20, 32), datetime(2024, 6, 26, 18, 16), datetime(2024, 6, 27, 17, 28), datetime(2024, 6, 28, 17, 45), datetime(2024, 6, 30, 10, 15), datetime(2024, 6, 30, 15, 32), datetime(2024, 7, 2, 18, 2), datetime(2024, 7, 3, 17, 2)]
@@ -196,4 +228,4 @@ with open(output_csv_path, 'w', newline='', encoding='utf-8') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     writer.writeheader()
 
-process_srt_files(folder_path, output_csv_path, min_level, title, datetime_segments, word_time)
+process_srt_files(srt_path, output_csv_path, min_level, title, datetime_segments, word_time)
