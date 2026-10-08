@@ -10,9 +10,12 @@ from wordfreq import zipf_frequency
 import random
 import requests
 
+# NLTK 3.8.2以降でリソース名が変更されたため新旧両方をダウンロードする
 nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('wordnet')
 nltk.download('averaged_perceptron_tagger')
+nltk.download('averaged_perceptron_tagger_eng')
 
 def read_srt_file_from_github(repo, path, file_name):
     url = f'https://api.github.com/repos/{repo}/contents/{path}/{file_name}'
@@ -151,7 +154,8 @@ def process_srt_files(folder_path, output_csv_path, min_level, title, datetime_s
                         start_time_srt = time_pairs[index][0]
                         start_time_seconds = srt_time_to_seconds(start_time_srt)
                         total_start_time_seconds = accumulated_seconds + start_time_seconds
-                        added_word_count = extract_difficult_words(clean_text, total_start_time_seconds, min_level, 0.3, word_time, segment_index)
+                        # 割当時間の合計が実視聴時間を下回ると segment_index が範囲外になるためクランプ
+                        added_word_count = extract_difficult_words(clean_text, total_start_time_seconds, min_level, 0.3, word_time, min(segment_index, len(datetime_segments) - 1))
                         word_time_accumulated += added_word_count * word_time * 60
                         accumulated_seconds += added_word_count * word_time * 60
                     if time_pairs:
@@ -169,6 +173,10 @@ def process_srt_files(folder_path, output_csv_path, min_level, title, datetime_s
     if segment_index < len(datetime_segments):
         viewing_times[segment_index] += accumulated_seconds
         word_times[segment_index] += word_time_accumulated
+    else:
+        # 全セグメントを消化しきった後の残りは最終日に加算する
+        viewing_times[-1] += accumulated_seconds
+        word_times[-1] += word_time_accumulated
 
     print_data_to_csv(output_csv_path, title, datetime_segments)
 

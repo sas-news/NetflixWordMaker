@@ -1,0 +1,5 @@
+nltk
+wordfreq
+requests
+ipywidgets
+pyautogui
